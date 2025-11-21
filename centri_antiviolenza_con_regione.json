@@ -1,0 +1,6235 @@
+[
+  {
+    "provincia": "Chieti",
+    "comune": "Chieti",
+    "centro": "Centro Antiviolenza Donna ALPHA.",
+    "indirizzo": [
+      "Via Spaventa, 47"
+    ],
+    "contatti": [
+      "800432500",
+      "0871562858",
+      "3391939959"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 09:30-12:30; Mercoledì: 09:30-12:30; Giovedì: 09:30-12:30; Venerdì: su appuntamento, 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Chieti",
+    "comune": "Guardiagrele",
+    "centro": "Centro Antiviolenza Maja",
+    "indirizzo": [
+      "Via Occidentale, 32"
+    ],
+    "contatti": [
+      "800440905",
+      "3391939959",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 10:30-12:30; Mercoledì: 10:30-12:30; Giovedì: 10:30-12:30; Venerdì: 10:30-12:30; Sabato: chiuso; Domenica: chiuso."
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Chieti",
+    "comune": "Lanciano",
+    "centro": "Centro Antiviolenza Dafne",
+    "indirizzo": [
+      "Via dei Frentani, 54"
+    ],
+    "contatti": [
+      "087240854",
+      "3713402265"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 09:00-12:00/15:00-17:00; Mercoledì: 15:00-18:00; Giovedì: 15:00-17:00; Venerdì: 09:30-12:30/17:00-19:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "note": "['Attiva segreteria telefonica h24 negli orari di chiusura']",
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Chieti",
+    "comune": "Lanciano",
+    "centro": "Sportello senza violenza Donne e Minori",
+    "indirizzo": [
+      "Via per Fossacesia,1 c/o Ospedale F.Renzetti"
+    ],
+    "contatti": [
+      "0872706517",
+      "3515118474"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 09:00-12:00; Mercoledì: chiuso; Giovedì: 09:00-12:00; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Chieti",
+    "comune": "Ortona e Fossacesia.",
+    "centro": "Centro Antiviolenza Donn-è EPS-APS",
+    "indirizzo": [
+      "Via dei Fretani, 33.",
+      "Indirizzo (Sportello Antiviolenza Demetra di Fossacesia): presso Segretariato Sociale, via Marina, 20"
+    ],
+    "contatti": [
+      "3515118474",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00/16:00-18:30; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso",
+      "(sportello di Fossacesia): Lunedì 9:30-12:30; Martedì: chiuso; Mercoledì: 9:00-12:00 (accoglienza telefonica); Giovedì: chiuso; Venerdì: 9:00-12:00 (accoglienza telefonica); Sabato chiuso; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Chieti",
+    "comune": "Ortona",
+    "centro": "Centro Antiviolenza Non sei sola",
+    "indirizzo": [
+      "Via Giovanni XXIII 80"
+    ],
+    "contatti": [
+      "0859064550",
+      "3408778030"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30/16:00-18:00; Martedì: 09:30-12:30; Mercoledì: 9:30-12:30/16:00-18:00; Giovedì: 09:30-12:30/16:00-18:00; Venerdì: 09:30-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Chieti",
+    "comune": "San Salvo",
+    "centro": "Sportello Antiviolenza Frida",
+    "indirizzo": [
+      "Piazza Aldo Moro"
+    ],
+    "contatti": [
+      "3351611795"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: chiuso; Mercoledì: chiuso; Giovedì: 10:30-12:30; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "note": "['Attiva segreteria telefonica h24 negli orari di chiusura']",
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Chieti",
+    "comune": "Vasto",
+    "centro": "Centro Antiviolenza DonnAttiva",
+    "indirizzo": [
+      "Via Anelli, 71"
+    ],
+    "contatti": [
+      "0873366152",
+      "3404781691"
+    ],
+    "orari": [
+      "Lunedì: 09:30-19:00; Martedì: 09:00-11:00; Mercoledì: 09:30-14:30; Giovedì: 09:30-14:30; Venerdì: 14:30-18:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "L’Aquila",
+    "comune": "Avezzano",
+    "centro": "Casa delle donne nella Marsica",
+    "indirizzo": [
+      "Via Orazio Mattei n° 10"
+    ],
+    "contatti": [
+      "3938856389"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00/15:00-18:00; Martedì: 09:00-14:00/15:00-18:00; Mercoledì: 09:00-14:00/15:00-18:00; Giovedì: 09:00-14:00/15:00-18:00; Venerdì: 09:00-14:00/15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "L’Aquila",
+    "comune": "Castel Di Sangro",
+    "centro": "Centro Antiviolenza Donna",
+    "indirizzo": [
+      "Palazzo del Principe, Via Costa Calda n.17"
+    ],
+    "contatti": [
+      "3407701504"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00; Giovedì: 15:00-18:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "L’Aquila",
+    "comune": "L’Aquila",
+    "centro": "Centro Antiviolenza Donatella Tellini",
+    "indirizzo": [
+      "Via Angelo Colagrande, 2A/ 2B"
+    ],
+    "contatti": [
+      "3400905655"
+    ],
+    "orari": [
+      "Lunedì: h24; Martedì: h24; Mercoledì: h24; Giovedì: h24; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "L’Aquila",
+    "comune": "Sulmona",
+    "centro": "Centro Antiviolenza la Libellula",
+    "indirizzo": [
+      "Via Pola, 64G"
+    ],
+    "contatti": [
+      "0864566918"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00/15:00-18:00; Martedì: 09:00-14:00; Mercoledì: 09:00-14:00; Giovedì: 09:00-14:00/15:00-18:00; Venerdì: 09:00-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "L’Aquila",
+    "comune": "Sulmona",
+    "centro": "Centro Antiviolenza Liberadiosa",
+    "indirizzo": [
+      "Via Gorizia, 18"
+    ],
+    "contatti": [
+      "0864660181",
+      "3317461368"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00; Martedì: 10:00-13:00; Mercoledì: 10:00-13:00; Giovedì: 10:00-13:00; Venerdì: 10:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Pescara",
+    "comune": "Pescara",
+    "centro": "Centro Antiviolenza Ananke Onlus",
+    "indirizzo": [
+      "Via Tavo, 248"
+    ],
+    "orari": [
+      "Reperibilità h24"
+    ],
+    "contatti": [],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Teramo",
+    "comune": "Teramo, Martinsicuro, Pineto, Isola del Gran Sasso",
+    "centro": "Centro Antiviolenza La Fenice",
+    "indirizzo": [
+      "Via Trento e Trieste, 8"
+    ],
+    "contatti": [
+      "0861029009",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 11:00-13:00; Mercoledì: 15:30-18:30; Giovedì: 15:00-18:00; Venerdì: 16:00-18:00; Sabato: 9:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Abruzzo"
+  },
+  {
+    "provincia": "Matera",
+    "comune": "Matera",
+    "centro": "Centro Antiviolenza Comune di Matera",
+    "indirizzo": [
+      "Via Aldo Moro,1"
+    ],
+    "contatti": [
+      "3404549044",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-18:00; Mercoledì: 09:00-18:00; Giovedì: 09:00-18:00; Venerdì: 09:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Basilicata"
+  },
+  {
+    "provincia": "Potenza",
+    "comune": "Potenza",
+    "centro": "Centro Antiviolenza Telefono Donna",
+    "indirizzo": [
+      "Via dei Ligustri,32"
+    ],
+    "contatti": [
+      "097155551",
+      "360437962",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00/16:00-19:00; Martedì: 09:00-14:00/16:00-19:00; Mercoledì: 09:00-14:00/16:00-19:00; Giovedì: 09:00-14:00/16:00-19:00; Venerdì: 09:00-14:00/16:00-19:00; Sabato: 09:00-14:00; Domenica: chiuso"
+    ],
+    "regione": "Basilicata"
+  },
+  {
+    "provincia": "Catanzaro",
+    "comune": "Catanzaro",
+    "centro": "Centro Antiviolenza Mondo Rosa",
+    "indirizzo": [
+      "Via Lucrezia della Valle, 106"
+    ],
+    "contatti": [
+      "800757657"
+    ],
+    "orari": [
+      "Lunedì: 09:00-17:00; Martedì: 09:00-17:00; Mercoledì: 09:00-17:00; Giovedì: 09:00-17:00; Venerdì: 09:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Catanzaro",
+    "comune": "Catanzaro",
+    "centro": "Centro Antiviolenza Centro Aiuto Donna",
+    "indirizzo": [
+      "Viale Magna Grecia 272/A"
+    ],
+    "contatti": [
+      "800909194",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Catanzaro",
+    "comune": "Catanzaro",
+    "centro": "S.O.S. Astarte Donna",
+    "indirizzo": [
+      "Via P. Orsi, 1"
+    ],
+    "contatti": [
+      "800642882",
+      "3200876477"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00/16:00-19:30; Mercoledì: 09:00-13:00/16:00-19:00; Giovedì: 16:00-19:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Catanzaro",
+    "comune": "Lamezia Terme",
+    "centro": "Centro Antiviolenza Demetra",
+    "indirizzo": [
+      "Via Garibaldi, Palazzo Monachelle"
+    ],
+    "contatti": [
+      "800550403",
+      "3277872647",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Cosenza",
+    "comune": "Corigliano-Rossano",
+    "centro": "Centro Antiviolenza Fabiana",
+    "indirizzo": [
+      "Via Montessori"
+    ],
+    "contatti": [
+      "0983031388",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:30/16:00-19:30; Martedì: 09:00-12:30/16:00-19:30; Mercoledì: 09:00-12:30/16:00-19:30; Giovedì: 09:00-12:30/16:00-19:30; Venerdì: 09:00-12:30/16:00-19:30;"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Cosenza",
+    "comune": "Cosenza",
+    "centro": "Centro contro la violenza alle donne Roberta Lanzino",
+    "indirizzo": [
+      "Via E. Fagiani, 17"
+    ],
+    "contatti": [
+      "098436311",
+      "3298981723"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: chiuso; Mercoledì: 9:00-12:00; Giovedì: 16:00-19:00; Venerdì: 16:00-19:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Cosenza",
+    "comune": "Paterno Calabro",
+    "centro": "Centro Antiviolenza Comune di Paterno Calabro",
+    "indirizzo": [
+      "Via San Pietro snc"
+    ],
+    "contatti": [
+      "3519184194"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-18:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Cosenza",
+    "comune": "Rende",
+    "centro": "Centro Antiviolenza La Casa di Roberta",
+    "indirizzo": [
+      "Via G. Verdi, 5 A/B/C"
+    ],
+    "contatti": [
+      "800288850",
+      "0984462453",
+      "3331061586",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: 9:00-19:00; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Crotone",
+    "comune": "Crotone",
+    "centro": "Centro Antiviolenza Udite Agar",
+    "indirizzo": [
+      "Via Giovanni Paolo II, 220"
+    ],
+    "contatti": [
+      "800974210",
+      "0962963559",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00/15:30-17:30; Martedì: 09:00-12:00/15:30-17:30; Mercoledì: 09:00-12:00/15:30-17:30; Giovedì: 09:00-12:00/15:30-17:30; Venerdì: 09:00-12:00/15:30-17:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Reggio Calabria",
+    "comune": "Gallico",
+    "centro": "Centro Antiviolenza Ascolto Ariel",
+    "indirizzo": [
+      "Via Scacchieri, 5"
+    ],
+    "contatti": [
+      "800435325"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00/16:00-18:00; Martedì: 10:00-12:00/16:00-18:00; Mercoledì: 10:00-12:00/16:00-18:00; Giovedì: 10:00-12:00/16:00-18:00; Venerdì: 10:00-12:00/16:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Reggio Calabria",
+    "comune": "Reggio Calabria",
+    "centro": "Centro Antiviolenza CIF Casa delle donne Madonna di Lourdes",
+    "indirizzo": [
+      "Via Ravagnese Superiore, 121"
+    ],
+    "contatti": [
+      "0965644857"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/15:00-19:00; Martedì: 09:00-13:00/15:00-19:00; Mercoledì: 09:00-13:00/15:00-19:00; Giovedì: 09:00-13:00/15:00-19:00; Venerdì: 09:00-13:00/15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Reggio Calabria",
+    "comune": "Reggio Calabria",
+    "centro": "Centro Antiviolenza Angela Morabito",
+    "indirizzo": [
+      "Via Galileo Ferraris, 3"
+    ],
+    "contatti": [
+      "800170940"
+    ],
+    "orari": [
+      "Lunedì: 11:00-13:00; Martedì: 9:00-11:00; Mercoledì: 14:00-16:00; Giovedì: 15:30-17:30; Venerdì: 9:30-11:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Vibo Valentia",
+    "comune": "Pizzo",
+    "centro": "Centro Antiviolenza Attivamente Coinvolte",
+    "indirizzo": [
+      "Via Marcello Salomone, snc"
+    ],
+    "contatti": [
+      "3883510596",
+      "800802038",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 08:00-12:00/ 16:00-19:00; Martedì: 8:00-12:00/16:00-19:00; Mercoledì: 08:00-12:00/16-19:00; Giovedì: 8.00-12:00/16:00-19:00; Venerdì: 08:00-12:00/16:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Calabria"
+  },
+  {
+    "provincia": "Avellino",
+    "comune": "Ariano Irpino Ambito 01",
+    "centro": "Centro Antiviolenza Ananke",
+    "indirizzo": [
+      "Via Fontana Nuova"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 15:00-18:00; Mercoledì: 15:00-18:00; Giovedì: 15:00-18:00; Venerdì: 15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "contatti": [],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Avellino",
+    "comune": "Avellino Ambito A04",
+    "centro": "Demetra è donna",
+    "indirizzo": [
+      "Via Fontanatetta 1/B"
+    ],
+    "contatti": [
+      "08251885778"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Avellino",
+    "comune": "Avellino – Ambito A04",
+    "centro": "Centro Antiviolenza Alice e lo Stregatto",
+    "indirizzo": [
+      "Corso Europa 27"
+    ],
+    "contatti": [
+      "0825552013",
+      "3277317827",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/15:00-18:00; Martedì: chiuso; Mercoledì: chiuso; Giovedì: 16:00-19:00; Venerdì: 10:00-13:00/15:00-18.00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Avellino",
+    "comune": "Avellino- Ambito 05",
+    "centro": "Centro Antiviolenza Alice e il Bianconiglio",
+    "indirizzo": [
+      "Via Piave, 29/D"
+    ],
+    "contatti": [
+      "0825784082",
+      "3277317827",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00; Martedì: 10:00-13:00; Mercoledì: 10:00-13:00; Giovedì: 10:00-13:00; Venerdì: 10:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Avellino",
+    "comune": "Mercogliano – Ambito A02",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via Traversa 113 bis"
+    ],
+    "orari": [
+      "Lunedì: 16:00-19:00; Martedì: 16:00-18:00; Mercoledì: 16:00-18:00; Giovedì: 16:00-18:00; Venerdì: 16:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "contatti": [],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Avellino",
+    "comune": "Sant’Angelo dei Lombardi – Ambito A 03",
+    "centro": "Centro Antiviolenza DiDonna",
+    "indirizzo": [
+      "Via Quadrivio P.O. G.Criscuoli"
+    ],
+    "contatti": [
+      "082742992",
+      "3939248320",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 08:00-13:00; Martedì: 08:00-13:00/15:00-18:00; Mercoledì: 08:00-13:00; Giovedì: 08:00-13:00/15:00-18:00; Venerdì: 08:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Avellino",
+    "comune": "Solofra – Ambito 05",
+    "centro": "Centro Antiviolenza Nemesi",
+    "indirizzo": [
+      "Via Aldo Moro, 10"
+    ],
+    "contatti": [
+      "0825582697",
+      "800629516",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 09:30-12:30; Mercoledì: 15:30-18:30; Giovedì: 15:30-18:30; Venerdì: 15:30-17:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Benevento",
+    "comune": "Benevento – Ambito B01",
+    "centro": "Centro Antiviolenza Pro.Ce.Do.",
+    "indirizzo": [
+      "Via Calandra, 7"
+    ],
+    "contatti": [
+      "0824604389",
+      "3517973440",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 16:00-18:00; Mercoledì: 09:00-13:00; Giovedì: 16:00-18:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Benevento",
+    "comune": "Calvi – Ambito B02",
+    "centro": "Centro Antiviolenza Dillo a noi",
+    "indirizzo": [
+      "Via Raffaele Villanacci snc"
+    ],
+    "contatti": [
+      "3924981969",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 9:00-12:00; Mercoledì: 15:00-18:00; Giovedì: 9:00-12:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Benevento",
+    "comune": "Cerreto Sannita – Ambito B04",
+    "centro": "Centro Antiviolenza Frida",
+    "indirizzo": [
+      "Corso Marzio Carafa c/o Palazzo ex Monte di Pietà"
+    ],
+    "contatti": [
+      "08241623142",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00/15:00-19:00; Giovedì: 09:00-13:00/15:00-19:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Benevento",
+    "comune": "Sant’Agata dei Goti- Ambito B03",
+    "centro": "Centro Antiviolenza La voce delle donne",
+    "indirizzo": [
+      "Via Ponte Vecchio 1"
+    ],
+    "contatti": [
+      "3388717117",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/15:00-18:00; Martedì: 09:00-13:00/16:00-20:00; Mercoledì: 09:00-13:00/15:00-18:00; Giovedì: 09:00-13:00/15:00-18:00; Venerdì: 09:00-13:00/15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "Casal di Principe – Ambito C07",
+    "centro": "Centro Antiviolenza Lorena casa delle donne contro la violenza",
+    "indirizzo": [
+      "Via Benevento 26"
+    ],
+    "contatti": [
+      "0818921806",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 15:00-18:00; Giovedì: 15:00-18:00; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "Caserta – Ambito C01",
+    "centro": "Centro Antiviolenza Spazio Donna",
+    "indirizzo": [
+      "Via Paul Harris – Palazzo della Salute"
+    ],
+    "contatti": [
+      "0823354126",
+      "3313837333",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:30-12:30; Martedì: 10:30-12:30/16:00-18:00; Mercoledì: 10:30-12:30; Giovedì: 10:30-12:30/16:00-18:00; Venerdì: 10:30-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "Lusciano – Ambito C07",
+    "centro": "Centro Antiviolenza Donne in ascolto",
+    "indirizzo": [
+      "Via Fratelli Cervi, 3"
+    ],
+    "contatti": [
+      "0812789952",
+      "3758554217"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 15:00-18:00; Mercoledì: chiuso; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "Maddaloni – Ambito C02",
+    "centro": "Centro Antiviolenza Eva",
+    "indirizzo": [
+      "Via Carmignano 5/7, Montedecoro"
+    ],
+    "contatti": [
+      "0823204145",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00/15:00-18:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00/15:00-18:00; Venerdì: 09:00-13:00; Sabato: 10:00-13:00; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "Marcianise – Ambito C05",
+    "centro": "Centro Antiviolenza Spazio Donna",
+    "indirizzo": [
+      "Piedimonte Matese"
+    ],
+    "orari": [],
+    "contatti": [],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "Mondragone – Ambito C10",
+    "centro": "Centro Antiviolenza V.E.R.I.",
+    "indirizzo": [
+      "Via Amedeo"
+    ],
+    "contatti": [
+      "800974216",
+      "3886596977",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:30; Martedì: 15:00-18:30; Mercoledì: 09:00-12:30; Giovedì: 15:00-18:30; Venerdì: chiuso; Sabato: 15:00-18:30; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "S.Maria Capua Vetere – Ambito C08",
+    "centro": "Centro Antiviolenza Fortemente",
+    "indirizzo": [
+      "Via Francia 10"
+    ],
+    "contatti": [
+      "3274741310",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 15:00-18:00; Mercoledì: 09:00-13:00; Giovedì: 15:00-18:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Caserta",
+    "comune": "Santa Maria Capua Vetere – Ambito C08",
+    "centro": "Centro Antiviolenza Aradia EVA",
+    "indirizzo": [
+      "Via Jan Palach 10"
+    ],
+    "contatti": [
+      "0823840600",
+      "3204472729"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00/15:00-20:00; Giovedì: 09:00-13:00/15:00-20:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Acerra",
+    "centro": "Centro Antiviolenza La Casa di Marinella",
+    "indirizzo": [
+      "Via Vittorio Emanuele II, 129"
+    ],
+    "contatti": [
+      "0815201470",
+      "3474530563"
+    ],
+    "orari": [
+      "Lunedì: 09:00-17:00; Martedì: 09:00-17:00; Mercoledì: 09:00-17:00; Giovedì: 09:00-17:00; Venerdì: 09:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Afragola – Ambito N19",
+    "centro": "Centro Antiviolenza Insieme senza violenza",
+    "indirizzo": [
+      "Via Plebiscito snc"
+    ],
+    "contatti": [
+      "3336157106"
+    ],
+    "orari": [
+      "Lunedì: 08:00-17:00; Martedì: 08:00-17:00; Mercoledì: 08:00-17:00; Giovedì: 08:00-17:00; Venerdì: 08:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Casalnuovo di Napoli – Ambito N21",
+    "centro": "Centro Antiviolenza Comune di Casalnuovo di Napoli",
+    "indirizzo": [
+      "Via Campana, 18"
+    ],
+    "contatti": [
+      "0815214122"
+    ],
+    "orari": [
+      "Lunedì: 08:00-14:00; Martedì: 8.00-14:00/16:00-19:00; Mercoledì: 09:00-14:00; Giovedì: 8:00-14:00/16:00-19:00; Venerdì: 08:00-14:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Casoria – Ambito N18",
+    "centro": "Centro l’ascolto Fiumadea",
+    "indirizzo": [
+      "via Arpino 39"
+    ],
+    "contatti": [
+      "800962293"
+    ],
+    "orari": [
+      "Lunedì: 10:30-13:30; Martedì: 10:30-13:30; Mercoledì: 14:00-17:00; Giovedì: 14:00-17:00; Venerdì: 10:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Casoria- Arzano – Casavatore Ambito N18",
+    "centro": "Centro Antiviolenza donne Insieme APS",
+    "indirizzo": [
+      "Via Napoli, 187"
+    ],
+    "contatti": [
+      "08119259516",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: dalle 18:00; Martedì: 10:00-12:00; Mercoledì: dalle 18:00; Giovedì: 10:00-12:00; Venerdì: dalle 18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Ercolano – Ambito N29",
+    "centro": "Centro Antiviolenza Annabella Cozzolino",
+    "indirizzo": [
+      "Via Marconi, 39"
+    ],
+    "contatti": [
+      "3278680411",
+      "0817881490",
+      "800894593",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 13:00-17:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Giugliano in Campania Ambito N14",
+    "centro": "Centro Antiviolenza La Fenice",
+    "indirizzo": [
+      "Via A.Palumbo 2"
+    ],
+    "contatti": [
+      "3533674299",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-16:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Ischia – Ambito N13",
+    "centro": "Centro Antiviolenza Non da sola",
+    "indirizzo": [
+      "Via Morgioni 76"
+    ],
+    "contatti": [
+      "3792022989"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00/15:00-19:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00/15:00-19:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Mugnano di Napoli – Ambito N16",
+    "centro": "Centro Antiviolenza Kintsugi",
+    "indirizzo": [
+      "VIA F. Crispi 10"
+    ],
+    "contatti": [
+      "3738535680",
+      "3509742562",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 14:00-18:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00; Giovedì: 14:00-18:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Napoli Municipalità I e II – Ambito N01",
+    "centro": "Centro Antiviolenza Centrale",
+    "indirizzo": [
+      "Via Concezione a Montecalvario 26"
+    ],
+    "contatti": [
+      "0817953191",
+      "0817953190",
+      "3509742562",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 09:30-13:30; Mercoledì: 14:00-18:00; Giovedì: 14:00-18:00; Venerdì: 09:30-13:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Napoli Municipalità III – Ambito N01",
+    "centro": "Centro Antiviolenza Materdei",
+    "indirizzo": [
+      "Via S. Agostino degli Scalzi – Salita San Raffaele, 61"
+    ],
+    "contatti": [
+      "0817952615",
+      "3509742562",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 09:30-13:30; Mercoledì: 09:30-13:30; Giovedì: 10:30-14:30; Venerdì: 09:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Napoli Municipalità IX e X – Ambito N01",
+    "centro": "Centro Antiviolenza Maddalena APS",
+    "indirizzo": [
+      "Via Acate, 65"
+    ],
+    "contatti": [
+      "0817958010",
+      "3509742562",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 14:00-18:00; Mercoledì: 09:00-13:00; Giovedì: 14:00-18:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Napoli Municipalità V – Ambito N01",
+    "centro": "Centro Antiviolenza Vomero Salute Donna",
+    "indirizzo": [
+      "Via Giacinto Gigante, 242"
+    ],
+    "contatti": [
+      "0817952254",
+      "3509742562",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 14:00-18:00; Mercoledì: 09:30-13:30; Giovedì: 09:30-13:30; Venerdì: 09:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Napoli – Ambito N01",
+    "centro": "Centro Antiviolenza Le Kassandre APS",
+    "indirizzo": [
+      "Via Hemingway 102"
+    ],
+    "contatti": [
+      "3880979950",
+      "3509742562",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 09:30-13:30; Mercoledì: 09:30-13:30; Giovedì: 09:30-13:30; Venerdì: 09:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Napoli – Scampia Municipalità VII-VIII Ambito N 01",
+    "centro": "Centro Antiviolenza Dream Team- Donne in rete",
+    "indirizzo": [
+      "Via Galileo Galilei, 5"
+    ],
+    "contatti": [
+      "0810489241",
+      "3275423293"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 15:30-18:30; Mercoledì: 09:30-13:30; Giovedì: 09:30-13:30; Venerdì: 15:30-18:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Nola – Ambito N23",
+    "centro": "Centro Antiviolenza Futura",
+    "indirizzo": [
+      "Piazza Duomo, 1"
+    ],
+    "contatti": [
+      "800102590"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-18:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Pomigliano d’Arco – Ambito N25",
+    "centro": "Centro Antiviolenza Estia",
+    "indirizzo": [
+      "Via Locatelli 27/29"
+    ],
+    "contatti": [
+      "800894593",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00/14:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Portici- Ambito N11",
+    "centro": "Centro Antiviolenza Teresa Buonocore",
+    "indirizzo": [
+      "Via Garibaldi, 45"
+    ],
+    "contatti": [
+      "3382501612",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00; Martedì: 14:00-18:00; Mercoledì: 09:00-14:00; Giovedì: 14:00-18:00; Venerdì: 09:00-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Pozzuoli Ambito N12",
+    "centro": "Centro Antiviolenza Spazio Donna",
+    "indirizzo": [
+      "Via Martini snc"
+    ],
+    "contatti": [
+      "3408616528"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 13:00-17:00; Mercoledì: 09:00-13:00; Giovedì: 13:00-17:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "San Giorgio A Cremano – Ambito N28",
+    "centro": "CAV Maria",
+    "indirizzo": [
+      "Via Francesco Cappiello 119"
+    ],
+    "contatti": [
+      "800148724"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-19:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-19:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Sant’Antonio Abate Ambito N32; Sportello: Pompei; Sportello: Gragnano",
+    "centro": "Centro Antiviolenza Rose Spezzate Stefania Formicola",
+    "indirizzo": [
+      "Via Roma 522; Indirizzo Pompei: Piazza Schettini; Indirizzo Gragnano: Via Sepolcri, 15"
+    ],
+    "contatti": [
+      "3757359590",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Sant’antimo Ambito N17",
+    "centro": "Centro Antiviolenza Liberamente Donna",
+    "indirizzo": [
+      "Indirizzo sede Frattamaggiore: Piazza Crispino",
+      "Indirizzo sede Sant’Antimo: Via Roma, 168"
+    ],
+    "contatti": [
+      "08118098006",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-14:00/15:00-18:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Sorrento – Ambito N33",
+    "centro": "Centro Antiviolenza Sorrento",
+    "indirizzo": [
+      "Corso Italia 318"
+    ],
+    "contatti": [
+      "800894593",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00; Martedì: 9:00-12:00/15:00-18:00; Mercoledì: 9:00-12:00; Giovedì: 9:00-12:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Napoli",
+    "comune": "Torre Annunziata – Ambito N30",
+    "centro": "Centro Antiviolenza Eirene",
+    "indirizzo": [
+      "Via Parini, 78"
+    ],
+    "contatti": [
+      "800894593",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 14:00-17:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00/14.00-17.00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Atena Lucana – Ambito S10",
+    "centro": "Centro Antiviolenza Aretusa",
+    "indirizzo": [
+      "Via Stazione, snc"
+    ],
+    "contatti": [
+      "09751966166",
+      "800413300"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:30/14:30-19:00; Martedì: 09:00-13:30/14:30-19:00; Mercoledì: 09:00-13:30/14:30-19:00; Giovedì: 09:00-13:30/14:30-19:00; Venerdì: 09:00-13:30/14:30-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Cava de’ Tirreni- Ambito S02",
+    "centro": "Centro Antiviolenza Cava de Tirreni",
+    "indirizzo": [
+      "Via Aniello Salsano snc c/o Terza Circoscrizione Pregiato"
+    ],
+    "contatti": [
+      "800834281",
+      "3473998842"
+    ],
+    "orari": [
+      "Lunedì: 09:30-11:30; Martedì: chiuso; Mercoledì: chiuso; Giovedì: 17:00-19:00; Venerdì: 17:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Eboli – Ambito S03 (ex S05)",
+    "centro": "Centro antiviolenza Lo Specchio",
+    "indirizzo": [
+      "Corso Umberto I, 22"
+    ],
+    "contatti": [
+      "08281995775",
+      "3791833219",
+      "3319911927",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-19:00; Martedì: 15:00-19:00; Mercoledì: 15:00-19:00; Giovedì: 15:00-19:00; Venerdì: 15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Mercato San Severino – Ambito S06 Baronissi",
+    "centro": "Centro Antiviolenza Malala",
+    "indirizzo": [
+      "Piazza Ettore Imperio, 7"
+    ],
+    "contatti": [
+      "089826843",
+      "3929049421"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00; Martedì: 09:00-14:00/14:30-17:30; Mercoledì: 08:00-14:00; Giovedì: 14:30-17:30; Venerdì: 08:00-14:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Minori – Ambito Cava de’ Tirreni 02",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via Roma, 32"
+    ],
+    "contatti": [
+      "800592814"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: chiuso; Mercoledì: 16:30-18:30; Giovedì: chiuso; Venerdì: 10:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Palomonte – Ambito S10",
+    "centro": "Centro Antiviolenza No Violence",
+    "indirizzo": [
+      "Via Valle Alomonte"
+    ],
+    "contatti": [
+      "800983816",
+      "0828994111"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: chiuso; Mercoledì: chiuso; Giovedì: 08:30-13:30; Venerdì: 08:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Pontecagnano Faiano – Ambito S04_2",
+    "centro": "Centro Antiviolenza Anna Borsa",
+    "indirizzo": [
+      "Via Torino 46"
+    ],
+    "contatti": [
+      "3443400016"
+    ],
+    "orari": [
+      "Lunedì: 10:00-16:00; Martedì: 10:00-16:00; Mercoledì: 10:00-16:00; Giovedì: 10:00-16:00; Venerdì: 10:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Roccadaspide – Ambito S07",
+    "centro": "Centro Antiviolenza Donne al Centro",
+    "indirizzo": [
+      "Via Alessandro Manzoni"
+    ],
+    "contatti": [
+      "08281995659",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: chiuso; Mercoledì: 09:00-12:00/15:00-18:00; Giovedì: 9.00-12:00; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Salerno – Ambito S05",
+    "centro": "Centro antiviolenza Febe",
+    "indirizzo": [
+      "Via Quintino di Vona, 2"
+    ],
+    "contatti": [
+      "333469364",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-17:00; Martedì: 9:00-17:00; Mercoledì: 9:00-17:00; Giovedì: 9:00-17:00; Venerdì: 9:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Salerno – Ambito S05",
+    "centro": "Centro Antiviolenza Leucosia",
+    "indirizzo": [
+      "Via F. Patella, 10"
+    ],
+    "contatti": [
+      "0899485269",
+      "3408339000",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-16:00; Martedì: 10:00-16:00; Mercoledì: 10:00-16:00; Giovedì: 10:00-16:00; Venerdì: 10:00-16:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Salerno – Ambito S05",
+    "centro": "Centro Antviolenza Linea Rosa",
+    "indirizzo": [
+      "Via G.Quagliariello snc"
+    ],
+    "contatti": [
+      "089254242",
+      "3791422525",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 15:00-18:00; Mercoledì: 09:00-13:00; Giovedì: 15:00-18:00; Venerdì: 15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Salerno- Ambito S05",
+    "centro": "Centro Ascolto Donna C.I.F.",
+    "indirizzo": [
+      "Via G.Ruggi, 42"
+    ],
+    "contatti": [
+      "089711276",
+      "3295956144",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 17:00-19:30; Mercoledì: 17:00-19.30; Giovedì: 17:00-19:30; Venerdì: chiuso; Sabato: 17.00-19:30; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "San Valentino Torio – Ambito S01_3, Pagani",
+    "centro": "Centro Antiviolenza Vite di Giada",
+    "indirizzo": [
+      "Via Giacomo Matteotti 13"
+    ],
+    "contatti": [
+      "800894593",
+      "3929312279",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 16:00-19:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-19:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Sapri – Ambito S09;",
+    "centro": "Centro Antiviolenza Iris Sportello Pierangela",
+    "indirizzo": [
+      "Via Garibaldi, 10"
+    ],
+    "contatti": [
+      "0973330527",
+      "3884736954"
+    ],
+    "orari": [
+      "Lunedì: 10:30-12:30/16:00-18:00; Martedì: 10:30-12:30/16:00-18:00; Mercoledì: 10:30-12:30/16:00-18:00; Giovedì: 10:30-12:30/16:00-18:00; Venerdì: 10:30-12:30/16:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Scafati – Ambito S01_2 Angri",
+    "centro": "Centro Antiviolenza La casa di Marinella",
+    "indirizzo": [
+      "Via Armando Diaz, 88"
+    ],
+    "orari": [],
+    "contatti": [],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Serre Ambito s3 ex s5",
+    "centro": "Centro Antiviolenza Ginevra",
+    "indirizzo": [
+      "Viale della Pace 26"
+    ],
+    "contatti": [
+      "3334649360",
+      "3895191746",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/15:00-19:00; Martedì: 09:00-13:00/15:00-19:00; Mercoledì: 09:00-13:00/15:00-19:00; Giovedì: 09:00-13:00/15:00-19:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Salerno",
+    "comune": "Vallo della Lucania – Ambito S08",
+    "centro": "Centro Antiviolenza Il volo delle farfalle",
+    "indirizzo": [
+      "Piazza Vittorio Emanuele"
+    ],
+    "contatti": [
+      "3343090151"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 15:00-18:00; Mercoledì: 10:00-13:00; Giovedì: 15:00-18:00; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Campania"
+  },
+  {
+    "provincia": "Bologna",
+    "comune": "Baricella, Bazzano, Castel di Casio, Castenaso, Castiglione dei Peroli, Funo, Galliera, Marzabotto, San Giovanni Persiceto, Vergato",
+    "centro": "Chiama Chiama – Sportello Ascolto Mondodonna",
+    "contatti": [
+      "3316590845"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:30; Martedì: 09:00-19:30; Mercoledì: 09:00-19:30; Giovedì: 09:00-19:30; Venerdì: 09:00-19:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "indirizzo": [
+      "Piazza San Francesco, 8"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Bologna",
+    "comune": "Bologna",
+    "centro": "Centro Antiviolenza UDI",
+    "indirizzo": [
+      "Via Castiglione, 24"
+    ],
+    "contatti": [
+      "051232313",
+      "3292886466",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-14:00/15:00-18:00; Mercoledì: 09:00-14:00/15:00-18:00; Giovedì: 09:00-14:00/15:00-18:00; Venerdì: 09:00-18:00; Sabato: 9:00-13:00; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Bologna",
+    "comune": "Bologna",
+    "centro": "Centro Antiviolenza SOS Donna",
+    "indirizzo": [
+      "Via Saragozza, 221 B"
+    ],
+    "contatti": [
+      "051434345",
+      "3455909708"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00/14:00-18:00/19:00-22.00; Martedì: 9:00-13:00/14:00-18:00; Mercoledì: 9:00-13:00/14:00-18:00; Giovedì: 9:00-13:00/14:00-18:00; Venerdì: 9:00-13:00/14:00-18:00; Sabato: 10:00-13:00; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Bologna",
+    "comune": "Bologna",
+    "centro": "Sportello Universitario contro la violenza di genere (Casa delle Donne)",
+    "indirizzo": [
+      "Via M. Masia 19/A",
+      "Via Ranzani 14",
+      "via Grimaldi 1"
+    ],
+    "contatti": [
+      "3884017237"
+    ],
+    "orari": [
+      "Lunedì: 09:00-17:00; Martedì: 09:00-17:00; Mercoledì: 09:00-17:00; Giovedì: 09:00-17:00; Venerdì: 09:00-17:00; Sabato: 10:00-16:00; Domenica: 10:00-16:00"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Bologna",
+    "comune": "Imola",
+    "centro": "Centro Antiviolenza Trama di terre",
+    "indirizzo": [
+      "Via Aldrovandi, 31"
+    ],
+    "orari": [
+      "Lunedì: 08:00-20:00; Martedì: 08:00-18:00; Mercoledì: 08:00-20:00; Giovedì: 08:00-18:00; Venerdì: 08:00-20:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "contatti": [],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Bologna",
+    "comune": "Imola",
+    "centro": "Centro Antiviolenza Per le donne",
+    "indirizzo": [
+      "Piazzale Giovanni delle Bande Nere, 11"
+    ],
+    "contatti": [
+      "3703252064"
+    ],
+    "orari": [
+      "Lunedì: 09:00-17:00; Martedì: 09:00-17:00; Mercoledì: 09:00-17:00; Giovedì: 9:00-17:00; Venerdì: 09:00-17:00; Sabato: chiuso; Domenica: chiuso; chiuso nei giorni festivi"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Ferrara",
+    "comune": "Ferrara",
+    "centro": "Centro Antiviolenza Donna Giustizia",
+    "indirizzo": [
+      "Via Terranuova, 12 B"
+    ],
+    "contatti": [
+      "0532247440"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-18:00; Mercoledì: 09:00-18:00; Giovedì: 09:00-18:00; Venerdì: 09:00-18:00; Sabato: 09:00-15:00; Domenica: 9:00-13:00"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Forlì-Cesena",
+    "comune": "Cesena",
+    "centro": "Centro Antiviolenza Comunale Centro Donna",
+    "indirizzo": [
+      "Via Aldini, 26"
+    ],
+    "contatti": [
+      "0547355742",
+      "0547355738"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 14:30-17:30; Mercoledì: 09:00-16:00; Giovedì: 14:30-17:30; Venerdì: 09:00-13:00; Sabato: 09:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Forlì-Cesena",
+    "comune": "Forlì",
+    "centro": "Centro Antiviolenza Comune di Forlì",
+    "indirizzo": [
+      "Via Tina Gori, 58"
+    ],
+    "contatti": [
+      "0543712660"
+    ],
+    "orari": [
+      "Lunedì: 08:30-13:30; Martedì: 08:30-13:30/14:00-18:00; Mercoledì: 08:30-13:30/14:00-18:00; Giovedì: 14:30-17:30; Venerdì: 08:30-13:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Modena",
+    "comune": "Carpi, Campogalliano, Soliera, Novi di Modena",
+    "centro": "Centro Antiviolenza Vivere Donna",
+    "indirizzo": [
+      "Via De Amicis, 59"
+    ],
+    "contatti": [
+      "059653203",
+      "3385793957",
+      "h24"
+    ],
+    "orari": [
+      "Su appuntamento"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Modena",
+    "comune": "Medolla, Finale Emilia, Mirandola",
+    "centro": "Centro antiviolenza distrettuale U.C.M.A.N.",
+    "indirizzo": [
+      "Via Milano, 4"
+    ],
+    "contatti": [
+      "3703068286"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-12:00/17:00-19:00; Mercoledì: 15:00-18:00; Giovedì: 09:00-13:00; Venerdì: 15:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Modena",
+    "comune": "Modena, Vignola, Pavullo, Castelfranco",
+    "centro": "Centro Antiviolenza Associazione casa delle donne contro la violenza",
+    "indirizzo": [
+      "Strada Vaciglio Nord, 6"
+    ],
+    "contatti": [
+      "059361050",
+      "3356958163"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/14:00-18:00; Martedì: 09:00-13:00/14:00-18:00; Mercoledì: 09:00-13:00/14:00-18:00; Giovedì: 09:00-13:00/14:00-18:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Modena",
+    "comune": "Sassuolo",
+    "centro": "Centro Antiviolenza Tina",
+    "indirizzo": [
+      "Via Adda, 50"
+    ],
+    "contatti": [
+      "0536880598"
+    ],
+    "orari": [
+      "Lunedì: 8:30-11.30; Martedì: 14:30-17:30; Mercoledì: 10:00-13:00; Giovedì: 15:00-18:00; Venerdì: 10:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Modena",
+    "comune": "Vignola",
+    "centro": "Centro Antiviolenza Paola Manzini",
+    "indirizzo": [
+      "Via Marconi 4"
+    ],
+    "contatti": [
+      "059777684"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 14:00-18:00; Mercoledì: chiuso; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Parma",
+    "comune": "Parma",
+    "centro": "Centro Antiviolenza Onlus",
+    "indirizzo": [
+      "Vicolo Grossardi, 8"
+    ],
+    "contatti": [
+      "0521238885"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00; Martedì: 09:00-13:00/14:30-18:30; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00/14:30-18:30; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Piacenza",
+    "comune": "Piacenza",
+    "centro": "Centro Antiviolenza La Città delle Donne ODV",
+    "indirizzo": [
+      "Str.ne Farnese, 22"
+    ],
+    "contatti": [
+      "0523334833"
+    ],
+    "orari": [
+      "Lunedì: 09:30-17:30; Martedì: 09:30-17:30; Mercoledì: 09:30-17:30; Giovedì: 09:30-17:30; Venerdì: 09:30-17:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Ravenna",
+    "comune": "Faenza, Riolo Terme, Savignano sul Rubicone",
+    "centro": "Centro Antiviolenza SOS Donna",
+    "indirizzo": [
+      "Via Laderchi, 3"
+    ],
+    "contatti": [
+      "054622060",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 11:00-18:30; Martedì: 09:00-16:00; Mercoledì: 09:00-16:00; Giovedì: 09:00-16:00; Venerdì: 14:00-18:30; Sabato: 09:00-14:00; Domenica: 09:00-14:00"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Ravenna",
+    "comune": "Lugo",
+    "centro": "Centro Antiviolenza Demetra Donne in aiuto",
+    "indirizzo": [
+      "Corso Garibaldi, 116"
+    ],
+    "contatti": [
+      "054527168"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00; Martedì: 09:00-14:00; Mercoledì: 09:00-14:00; Giovedì: 09:00-14:00; Venerdì: 15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Ravenna",
+    "comune": "Ravenna",
+    "centro": "Centro Antiviolenza Linea Rosa ODV",
+    "indirizzo": [
+      "Via Giuseppe Mazzini, 57 A"
+    ],
+    "contatti": [
+      "0544216316"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: 09:00-15:00; Domenica: 12:00-18:00"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Reggio nell’Emilia",
+    "comune": "Reggio Emilia",
+    "centro": "Casa delle donne per non subire violenza",
+    "indirizzo": [
+      "Via Melegari, 2/A"
+    ],
+    "contatti": [
+      "0522585643",
+      "0522585644"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/15:00-18:00; Martedì: 09:00-13:00/15:00-18:00; Mercoledì: 09:00-13:00/15:00-18:00; Giovedì: 09:00-13:00/15:00-18:00; Venerdì: 09:00-13:00/15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Rimini",
+    "comune": "Cattolica",
+    "centro": "Centro Antiviolenza Distrettuale Chiama Chiama",
+    "indirizzo": [
+      "Piazzale della Repubblica, 15"
+    ],
+    "contatti": [
+      "3357661501"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 09:30-13:30; Mercoledì: 09:30-13:30; Giovedì: 09:30-13:30; Venerdì: 09:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Rimini",
+    "comune": "Rimini, Bellaria-Igea Marina, Villa Verucchio",
+    "centro": "Centro Antiviolenza Rompi il silenzio",
+    "indirizzo": [
+      "Via Caduti di Marzabotto, 30"
+    ],
+    "contatti": [
+      "3465016665"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00/15:00-19:00; Martedì: 09:00-12:00/15:00-19:00; Mercoledì: 09:00-12:00/15:00-19:00; Giovedì: 09:00-12:00/15:00-19:00; Venerdì: 09:00-12:00/15:00-19:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Rimini",
+    "comune": "Santarcangelo",
+    "centro": "Centro Antiviolenza Marielle",
+    "indirizzo": [
+      "Via Dante di Nanni 16"
+    ],
+    "contatti": [
+      "3465016665"
+    ],
+    "orari": [
+      "Lunedì: 09:30-16:30; Martedì: 09:30-12:30; Mercoledì: 14:00-16:30; Giovedì: 09:30-16:30; Venerdì: 09:30-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Emilia-Romagna"
+  },
+  {
+    "provincia": "Gorizia",
+    "comune": "Gorizia, Gradisca d’Isonzo, Aquileia, Gonars, Trevignano Udinese",
+    "centro": "Centro Antiviolenza S.O.S Rosa",
+    "indirizzo": [
+      "Via A. Diaz, 5"
+    ],
+    "contatti": [
+      "048132954",
+      "3388142503",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 8:30-17:30; Martedì: 8:30-13:30; Mercoledì: 8:30-17:30; Giovedì: 8:30-15:30; Venerdì: 8:30-13:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Gorizia",
+    "comune": "Grado",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via Michelangelo Buonarroti, 10"
+    ],
+    "contatti": [
+      "3391467750"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 15:00-18:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Gorizia",
+    "comune": "Monfalcone",
+    "centro": "Centro Antiviolenza Da donna a donna",
+    "indirizzo": [
+      "Via Galvani, 18"
+    ],
+    "contatti": [
+      "0481474700",
+      "3332810048"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:30; Martedì: 09:00-18:00; Mercoledì: 09:00-14:00; Giovedì: 09:00-18:00; Venerdì: 09:00-14:00; Sabato: 9:00-14:00; Domenica: 9:00-14:00"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Pordenone",
+    "comune": "Pordenone",
+    "centro": "Centro Antiviolenza Voce Donna",
+    "indirizzo": [
+      "Viale Dante, 19"
+    ],
+    "contatti": [
+      "043421779"
+    ],
+    "orari": [
+      "Lunedì: 08:30-18:00; Martedì: 08:30-15:00-19:00; Mercoledì: 08:30-15:00; Giovedì: 08:30-18:00; Venerdì: 08:30-15:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Trieste",
+    "comune": "Trieste",
+    "centro": "Centro Antiviolenza GOAP",
+    "indirizzo": [
+      "Via San Silvestro, 3-5"
+    ],
+    "contatti": [
+      "0403478778"
+    ],
+    "orari": [
+      "Lunedì: 09:00-15:00; Martedì: 12:00-18:00; Mercoledì: 12:00-18:00; Giovedì: 09:00-15:00; Venerdì: 09:00-15:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Udine",
+    "comune": "Tolmezzo",
+    "centro": "Centro Antiviolenza Voce Donna",
+    "indirizzo": [
+      "Via R.Del Din,9A"
+    ],
+    "contatti": [
+      "0433949021",
+      "3491362784"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-18:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00; Sabato: 08:00-20:00; Domenica: 08:00-20:00"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Udine",
+    "comune": "Udine",
+    "centro": "Iotunoivoi Donne insieme Centro Antiviolenza",
+    "indirizzo": [
+      "Via Pradamano, 41/B"
+    ],
+    "contatti": [
+      "0432421011",
+      "3351389212"
+    ],
+    "orari": [
+      "Lunedì: 08:00-18:30; Martedì: 08:00-18:30; Mercoledì: 08:00-18:30; Giovedì: 08:00-18:30; Venerdì: 08:00-18:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Udine",
+    "comune": "Cassino",
+    "centro": "Centro Antiviolenza Università di Cassino e del Lazio meridionale",
+    "indirizzo": [
+      "Via San Valentino, 18/20",
+      "Viale dell’università Polo Folcara",
+      "Via Giacomo Puccini 51"
+    ],
+    "contatti": [
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-15:00; Martedì: 9:00-15:00; Mercoledì: 9:00-15:00; Giovedì: 9:00-15:00; Venerdì: 9:00-15:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Friuli-Venezia Giulia"
+  },
+  {
+    "provincia": "Frosinone",
+    "comune": "Ceccano",
+    "centro": "Centro antiviolenza Telefono Rosa Frosinone ODV – Centro di orientamento per le donne",
+    "indirizzo": [
+      "Via Giovanni Falcone (piano terra ex Pretura)"
+    ],
+    "contatti": [
+      "07751886011",
+      "800926412",
+      "3486978882"
+    ],
+    "orari": [
+      "Lunedì: 08:30-13:00/15:00-19:00; Martedì: 08:30-13:00/15:00-19:00; Mercoledì: 08:30-13:00/15:00-19:00; Giovedì: 08:30-13:00/15:00-19:00; Venerdì: 08:30-13:00/15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Frosinone",
+    "comune": "Fiuggi",
+    "centro": "Centro Antiviolenza Fammi Rinascere",
+    "indirizzo": [
+      "Piazza Trento e Trieste, 14"
+    ],
+    "contatti": [
+      "800768074"
+    ],
+    "orari": [
+      "Lunedì: 08:30-12:30/15:30-18:30; Martedì: 08:30-12:30/15:30-18:30; Mercoledì: 08:30-12:30/15:30-18:30; Giovedì: 08:30-12:30/15:30-18:30; Venerdì: 08:30-12:30/15:30-18:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Frosinone",
+    "comune": "Aprilia, Cisterna di Latina, Cori, Rocca Massima",
+    "centro": "Centro Antiviolenza Donne al centro",
+    "indirizzo": [
+      "Corso della Repubblica, 130",
+      "Piazza VI dicembre, 2",
+      "Piazza Domenico Marzi, 1 – Piano S1",
+      "Via Gabriele d’annunzio 17 c/o AIPES",
+      "Lungoliri Cavour, 12",
+      "Via Pontina Km 46600"
+    ],
+    "contatti": [
+      "3287774577"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-18:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Latina",
+    "comune": "Latina",
+    "centro": "Centro Antiviolenza Donna Lilith",
+    "indirizzo": [
+      "Via Farini 2"
+    ],
+    "contatti": [
+      "0773664165",
+      "3477318149"
+    ],
+    "orari": [
+      "Lunedì: 08:30-12:30/14:30-18:30; Martedì: 08:30-12:30/14:30-18:30; Mercoledì: 08:30-12:30/14:30-18:30; Giovedì: 08:30-12:30/14:30-18:30; Venerdì: 08:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Latina",
+    "comune": "Priverno",
+    "centro": "CAV LiberA",
+    "indirizzo": [
+      "via Giacomo Matteotti"
+    ],
+    "contatti": [
+      "3245661130"
+    ],
+    "orari": [
+      "Lunedì: su appuntamento, 15:00-18:00; Martedì: su appuntamento, 09:00-12:00; Mercoledì: su appuntamento, 09:00-12:00; Giovedì: su appuntamento, 09:00-12:00/15:00-18:00; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Latina",
+    "comune": "Sezze",
+    "centro": "Centro antiviolenza Donatella Colasanti",
+    "indirizzo": [
+      "Via A. Diaz, 1"
+    ],
+    "contatti": [
+      "3312592165"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 14:00-17:00; Mercoledì: 14:00-17:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Rieti",
+    "comune": "Rieti",
+    "centro": "Centro Antiviolenza Il Nido di Ana",
+    "indirizzo": [
+      "Piazza Vittorio Emanuele II 17 B"
+    ],
+    "contatti": [
+      "0746280512"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: 16:00-18:00; Mercoledì: 10:00-12:00; Giovedì: 16:00-18:00; Venerdì: 10:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Anguillara",
+    "centro": "Centro Antiviolenza Federica Mangiapelo",
+    "indirizzo": [
+      "Via del Fosso Pietroso"
+    ],
+    "contatti": [
+      "0640418334",
+      "3403751484"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00; Venerdì: 14:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Ariccia",
+    "centro": "Centro Antiviolenza Piccoli Passi",
+    "indirizzo": [
+      "Via delle Cerquette, 2"
+    ],
+    "contatti": [
+      "3791677172"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00; Mercoledì: 15:00-19:00; Giovedì: 15:00-19:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Cerveteri",
+    "centro": "Centro Antiviolenza Le Farfalle",
+    "indirizzo": [
+      "Via Dei Bastioni, 46"
+    ],
+    "contatti": [
+      "3669755274"
+    ],
+    "orari": [
+      "Lunedì: 09:00-15:00; Martedì: 09:00-15:00; Mercoledì: 09:00-15:00; Giovedì: 12:00-18:00; Venerdì: 09:00-15:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Fiumicino Maccarese",
+    "centro": "Centro Antiviolenza I-DEA",
+    "indirizzo": [
+      "Via del Buttero, 3 (c/o Casa della Partecipazione MACCARESE)"
+    ],
+    "contatti": [
+      "0665210402",
+      "3381745013"
+    ],
+    "orari": [
+      "Lunedì, Mercoledì, Venerdì dalle 9:30 alle 17:00"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Formello, Fiano Romano, Rignano Flaminio",
+    "centro": "Centro Antiviolenza Galassia",
+    "indirizzo": [
+      "Via XX Settembre,2"
+    ],
+    "contatti": [
+      "3425229259",
+      "0690194260",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 14:00-19:00; Mercoledì: 14:00-19:00; Giovedì: 14:00-19:00; Venerdì: 09:00-16:00;"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Guidonia Montecelio",
+    "centro": "Centro Antiviolenza GEA",
+    "indirizzo": [
+      "Via Casal Bianco 18"
+    ],
+    "contatti": [
+      "3490798572"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 14:30-18:30; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 14:30-18:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Nettuno",
+    "centro": "Centro Antiviolenza Marielle Franco",
+    "indirizzo": [
+      "Via Bachelet, 13"
+    ],
+    "contatti": [
+      "0696006307",
+      "3427962289"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 15:00-18:00; Mercoledì: 09:30-12:30; Giovedì: 09:30-12:30; Venerdì: 15:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Rocca Priora",
+    "centro": "Centro Antiviolenza Ricomincio da me",
+    "indirizzo": [
+      "Via Malpasso d’Acqua"
+    ],
+    "contatti": [
+      "3791011237"
+    ],
+    "orari": [
+      "Lunedì: 15:00-19:00; Martedì: 15:00-19:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Paola Lattes",
+    "indirizzo": [
+      "Via Siro Solazzi, 3 Municipio IV"
+    ],
+    "contatti": [
+      "0685386922"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/14:00-18:30; Martedì: 10:00-13:00/14:00-18:30; Mercoledì: 10:00-13:00/14:00-18:30; Giovedì: 10:00-13:00/14:00-18:30; Venerdì: 10:00-13:00/14:00-18:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Università La Sapienza",
+    "indirizzo": [
+      "Via dello Scalo di San Lorenzo 61/B Municipio II"
+    ],
+    "contatti": [
+      "3665479783"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/14:00-18:00; Martedì: 10:00-13:00/14:00-18:00; Mercoledì: 10:00-13:00/14:00-18:00; Giovedì: 10:00-13:00/14:00-18:00; Venerdì: 10:00-13:00/14:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro antiviolenza Maree per donne in difficoltà e vittime di violenza",
+    "indirizzo": [
+      "Via Monte delle Capre,23 Municipio XI"
+    ],
+    "contatti": [
+      "066535499",
+      "0665793182"
+    ],
+    "orari": [
+      "Lunedì: 09:00-17:00; Martedì: 09:00-17:00; Mercoledì: 09:00-17:00; Giovedì: 09:00-17:00; Venerdì: 09:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza per donne che non vogliono più subire violenza",
+    "indirizzo": [
+      "Viale di Villa Pamphili, 71 Municipio XII"
+    ],
+    "contatti": [
+      "3454358538",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-17:00; Martedì: 09:00-17:00; Mercoledì: 09:00-17:00; Giovedì: 09:00-17:00; Venerdì: 09:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Sara Di Pietrantonio",
+    "indirizzo": [
+      "Via Tommaso Fortifiocca, 71 Municipio VII"
+    ],
+    "contatti": [
+      "0669609216",
+      "0669609213"
+    ],
+    "orari": [
+      "Lunedì: 10:00-17:00; Martedì: 10:00-17:00; Mercoledì: 10:00-17.00; Giovedì: 10.00-17.00; Venerdì: 10.00-17.00; reperibilità h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Massimo di Gregorio",
+    "indirizzo": [
+      "Via Nicola Stame 160/162 Municipio IX"
+    ],
+    "contatti": [
+      "3334912002"
+    ],
+    "orari": [
+      "Lunedì: 10:00-17:00; Martedì: 09:00-17:00; Mercoledì: 10:00-17:00; Giovedì: 09:00-17:00; Venerdì: 10:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Nilde Iotti",
+    "indirizzo": [
+      "Via di Grottaperfetta, 610 Municipio VIII"
+    ],
+    "contatti": [
+      "0696678236"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro antiviolenza Donatella Colasanti e Rosaria Lopez",
+    "indirizzo": [
+      "Via Di Torre Spaccata, 157 Municipio VII"
+    ],
+    "contatti": [
+      "0623269049"
+    ],
+    "orari": [
+      "Lunedì: 10:00-17:00; Martedì: 10:00-17:00; Mercoledì: 10:00-17:00; Giovedì: 10:00-17:00; Venerdì: 10:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Irma Bandiera",
+    "indirizzo": [
+      "Via Cornelio Sisenna, 53 Municipio VII"
+    ],
+    "contatti": [
+      "0693567964"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 09:00-16:00; Mercoledì: 09:00-16:00; Giovedì: 09:00-16:00; Venerdì: 09:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Alessia e Martina Capasso",
+    "indirizzo": [
+      "Circ.ne Trionfale, 19 Municipio I"
+    ],
+    "contatti": [
+      "0669617913",
+      "3316493913"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 09:00-16:00; Mercoledì: 09:00-16:00; Giovedì: 09:00-16:00; Venerdì: 09:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Titano",
+    "indirizzo": [
+      "Via Titano, 3 Municipio III"
+    ],
+    "contatti": [
+      "0669604434",
+      "3346370398"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/14:00-18:30; Martedì: 10:00-13:00/14:00-18:30; Mercoledì: 10:00-13:00/14:00-18:30; Giovedì: 10:00-13:00/14:00-18:30; Venerdì: 10:00-13:00/14:00-18:30; Sabato: chiuso; Domenica: chiuso, reperibilità telefonica h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Alda Merini",
+    "indirizzo": [
+      "Via Cassia, 5 Municipio XV"
+    ],
+    "contatti": [
+      "3384715860"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 09:00-16:00; Mercoledì: 09:00-16:00; Giovedì: 09:00-16:00; Venerdì: 09:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Franca Rame Telefono Rosa",
+    "indirizzo": [
+      "Via Dalmazia, 25 Municipio II"
+    ],
+    "contatti": [
+      "3384715978"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/14:00-18:30; Martedì: 10:00-13:00/14:00-18:30; Mercoledì: 10:00-13:00/14:00-18:30; Giovedì: 10:00-13:00/14:00-18:30; Venerdì: 10:00-13:00/14:00-18:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Teresa Buonocore",
+    "indirizzo": [
+      "Via Casal del Marmo, 118 Municipio XIV"
+    ],
+    "contatti": [
+      "3312647130"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Elena Gianini Belotti Università Tor Vergata",
+    "indirizzo": [
+      "Via Colombia 1, Macro Area lettere e filosofia Municipio VI"
+    ],
+    "contatti": [
+      "0672595184",
+      "3478547714"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 09:00-16:00; Mercoledì: 09:00-16:00; Giovedì: 09:00-17:00; Venerdì: 09:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Telefono Rosa",
+    "indirizzo": [
+      "Viale Mazzini 73 Municipio I"
+    ],
+    "contatti": [
+      "0637518261",
+      "0637518262"
+    ],
+    "orari": [
+      "Lunedì: 10:00-18:00; Martedì: 10:00-18:00; Mercoledì: 10:00-18:00; Giovedì: 10:00-18:00; Venerdì: 10:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Angelina Merlin",
+    "indirizzo": [
+      "Via Roberto Lepetit 176 Municipio V"
+    ],
+    "contatti": [
+      "3666521451"
+    ],
+    "orari": [
+      "Lunedì: 10:00-18:00; Martedì: 10:00-18:00; Mercoledì: 10:00-18:00; Giovedì: 10:00-18:00; Venerdì: 10:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Palmina Martinelli",
+    "indirizzo": [
+      "Via dei Gozzadini 38 Municipio XIII"
+    ],
+    "contatti": [
+      "3405931402"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 09:00-16:00; Mercoledì: 09:00-16:00; Giovedì: 09:00-17:00; Venerdì: 09:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Sportello Università Roma 3 Sara di Pietrantonio",
+    "indirizzo": [
+      "Via Ostiense 147 Municipio VIII"
+    ],
+    "contatti": [
+      "0657331522"
+    ],
+    "orari": [
+      "Lunedì: 10:00-17:00; Martedì: 13:00-20:00; Mercoledì: 10:00-17:00; Giovedì: 13:00-20:00; Venerdì: 10:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Roma",
+    "centro": "Centro Antiviolenza Manuela Petrangeli",
+    "indirizzo": [
+      "Via Fabio Conforto, 9-11, Municipio XI"
+    ],
+    "contatti": [
+      "0602201723",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì- Venerdì: 10:00-18:00; Sabato: Chiuso; Domenica: Chiuso;"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Tivoli",
+    "centro": "Centro Antiviolenza La Sibilla",
+    "indirizzo": [
+      "Via Lione, 11"
+    ],
+    "contatti": [
+      "0774013163",
+      "3420141671"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 09:00-16:00; Mercoledì: 09:00-16:00; Giovedì: 09:00-16:00; Venerdì: 09:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Roma",
+    "comune": "Valmontone",
+    "centro": "Centro provinciale di accoglienza e assistenza sociale La Ginestra",
+    "indirizzo": [
+      "Via Colle Tocciarello, 1"
+    ],
+    "contatti": [
+      "069591187",
+      "3311161702"
+    ],
+    "orari": [
+      "Lunedì: h24; Martedì: h24; Mercoledì: h24; Giovedì: h24; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Viterbo",
+    "comune": "Vetralla",
+    "centro": "Centro Antiviolenza Demetra",
+    "indirizzo": [
+      "Piazza Guglielmo Marconi 34"
+    ],
+    "contatti": [
+      "3290093541"
+    ],
+    "orari": [
+      "Lunedì: 14:30-18:30; Martedì: 14:30-18:30; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Viterbo",
+    "comune": "Viterbo",
+    "centro": "Centro Antiviolenza Università della Tuscia",
+    "indirizzo": [
+      "Via Santa Maria in Gradi, 4"
+    ],
+    "contatti": [
+      "0761357803",
+      "3444152580"
+    ],
+    "orari": [
+      "Lunedì: 14:30-18:30; Martedì: 09:00-13:00; Mercoledì: 14:30-18:30; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Viterbo",
+    "comune": "Viterbo",
+    "centro": "Centro Antiviolenza Penelope",
+    "indirizzo": [
+      "Via della Pettinara, 4"
+    ],
+    "contatti": [
+      "07611563229",
+      "3926473807"
+    ],
+    "orari": [
+      "Lunedì: 15:00-19:00; Martedì: 09:00-13:00; Mercoledì: 15:00-19:00; Giovedì: 09:00-13:00; Venerdì: 15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lazio"
+  },
+  {
+    "provincia": "Genova",
+    "comune": "Chiavari",
+    "centro": "Telefono Donna Centro Antiviolenza Gruppo Cif Aps",
+    "indirizzo": [
+      "Piazza Fenice, 5/1B"
+    ],
+    "contatti": [
+      "0185309912",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:30-17:30; Martedì: 14:30-16:30; Mercoledì: 16:30-18:30; Giovedì: 16:30-18:30; Venerdì: 10:00-12:00; Sabato: 10:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Genova",
+    "comune": "Genova",
+    "centro": "Centro Antiviolenza Mascherone",
+    "indirizzo": [
+      "Piazza Colombo, 3/7"
+    ],
+    "contatti": [
+      "010587072",
+      "3491163601"
+    ],
+    "orari": [
+      "Lunedì: 09:00-15:00; Martedì: 09:00-15:00; Mercoledì: 09:00-18:00; Giovedì: 09:00-18:00; Venerdì: 09:00-15:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Genova",
+    "comune": "Genova",
+    "centro": "Centro Antiviolenza per non subire violenza",
+    "indirizzo": [
+      "Via Cairoli 14/7"
+    ],
+    "contatti": [
+      "0102461715",
+      "3939712414"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-18:00; Mercoledì: 09:00-13:00/15:00-18:00; Giovedì: 09:00-13:00/15:00-18:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Genova",
+    "comune": "Genova",
+    "centro": "Centro Antiviolenza Casa Pandora Margherita Ferro",
+    "indirizzo": [
+      "Via Piccone 13/2"
+    ],
+    "contatti": [
+      "0107314853",
+      "3452653083"
+    ],
+    "orari": [
+      "Lunedì: 08:00-12:30; Martedì: 08:00-12:30; Mercoledì: 08:00-12:30/13:00-17:00; Giovedì: 08:00-12:30; Venerdì: 08:00-12:30/13:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Genova",
+    "comune": "Mignanego",
+    "centro": "Centro Antiviolenza Pandora",
+    "indirizzo": [
+      "Via V. Veneto, 143/2"
+    ],
+    "contatti": [
+      "0107729110",
+      "3476928460"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-18:00; Mercoledì: 09:00-18:00; Giovedì: 09:00-18:00; Venerdì: 09:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Genova",
+    "comune": "Recco",
+    "centro": "Centro Antiviolenza Martina Rossi",
+    "indirizzo": [
+      "Via XXV Aprile, 13/4"
+    ],
+    "contatti": [
+      "3346030961",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 11:00-14:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Imperia",
+    "comune": "Imperia, Sanremo, Ventimiglia",
+    "centro": "Centro Antiviolenza ISV",
+    "indirizzo": [
+      "Viale Matteotti, 28 (Imperia); Via Peirogallo, 16 (Sanremo); Piazza XX Settembre (Ventimiglia)"
+    ],
+    "contatti": [
+      "800186060",
+      "01841919623",
+      "01846183202"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 14:00-17:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso (Imperia); Lunedì: 14:00-17:00; Martedì: chiuso; Mercoledì: 14:00-17:00; Giovedì: chiuso; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso (Sanremo); Lunedì: chiuso; Martedì: chiuso; Mercoledì: chiuso; Giovedì: 14:00-17:00; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso."
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "La Spezia",
+    "comune": "La Spezia",
+    "centro": "Centro Antiviolenza Irene",
+    "indirizzo": [
+      "Via Migliari, 21"
+    ],
+    "contatti": [
+      "800144388",
+      "0187023944",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-11:00/15:00-17:00; Martedì: 09:00-11:00/15:00-17:00; Mercoledì: 09:00-11:00/15:00-17:00; Giovedì: 09:00-11:00/15:00-17:00; Venerdì: 09:00-11:00/15:00-17:00; Sabato: 09:00-11:00; Domenica: h24"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "La Spezia",
+    "comune": "Sarzana",
+    "centro": "Centro Antiviolenza Mai più sola",
+    "indirizzo": [
+      "Piazza Ricchetti, 3"
+    ],
+    "contatti": [
+      "3343793354",
+      "3501839369",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 16:00-19:00; Martedì: 10:00-13:00; Mercoledì: 14:00-17:00; Giovedì: 10:00-13:00; Venerdì: 10:00-13:00; Sabato: 10:00-13:00; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Savona",
+    "comune": "Albenga, Loano",
+    "centro": "Centro Antiviolenza Artemisia Gentileschi",
+    "indirizzo": [
+      "Via Reg. Bagnoli, 39"
+    ],
+    "contatti": [
+      "0182571517",
+      "3664387011",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-17:30; Martedì: 09:30-12:00; Mercoledì: 17:00-19:00; Giovedì: chiuso; Venerdì: 16:30-19:00; Sabato: h24; Domenica: h24 (Albenga); Lunedì: chiuso; Martedì: chiuso; Mercoledì: chiuso; Giovedì: 15:30-18:00; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Savona",
+    "comune": "Savona",
+    "centro": "Centro Antiviolenza Telefono Donna",
+    "indirizzo": [
+      "Via Sormano, 12"
+    ],
+    "contatti": [
+      "0198313399",
+      "3276228267"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30/15:30-18:00; Martedì: 09:30-12:30/15:30-18:00; Mercoledì: 09:30-12:30/15:30-18:00; Giovedì: 09:30-12:30/15:30-18:00; Venerdì: 09:30-12:30/15:30-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Liguria"
+  },
+  {
+    "provincia": "Bergamo",
+    "comune": "Bergamo",
+    "centro": "Centro Antiviolenza Aiuto Donna Uscire dalla violenza",
+    "indirizzo": [
+      "Via San Lazzaro, 3"
+    ],
+    "contatti": [
+      "035212933",
+      "3933082537"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00/15:00-17:00; Giovedì: 09:00-12:00/15:00-17:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Bergamo",
+    "comune": "San Pellegrino Terme, Santomobono Terme, Almenno San Bartolomeo",
+    "centro": "Centro Antiviolenza Penelope",
+    "indirizzo": [
+      "Via San Carlo, 32"
+    ],
+    "contatti": [
+      "0363301773",
+      "3341046230"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 14:00-17:00; Mercoledì: 09:00-12:00; Giovedì: 14:00-17:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Bergamo",
+    "comune": "Seriate",
+    "centro": "Centro Antiviolenza R.I.T.A. – Rete Interistituzionale Territoriale Antiviolenza",
+    "indirizzo": [
+      "Via Chiesa San Grisogono, 18"
+    ],
+    "contatti": [
+      "035303266",
+      "3933082537"
+    ],
+    "orari": [
+      "Lunedì: h24; Martedì: h24; Mercoledì: h24; Giovedì: h24; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Bergamo",
+    "comune": "Terno d’Isola",
+    "centro": "Centro Antiviolenza Ascolta chi parla",
+    "indirizzo": [
+      "Via Trento, 5"
+    ],
+    "contatti": [
+      "03519910067",
+      "3933082537"
+    ],
+    "orari": [
+      "Lunedì: h24; Martedì: h24; Mercoledì: h24; Giovedì: h24; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Bergamo",
+    "comune": "Treviglio, Romano di Lombardia, Rivolta d’Adda, Brignano Gera d’Adda,Castel Rozzone",
+    "centro": "Centro Antiviolenza Sportello Donna",
+    "indirizzo": [
+      "Via Roggia Vignola, 18"
+    ],
+    "contatti": [
+      "0363301773"
+    ],
+    "orari": [
+      "Lunedì: 08:30-18:30; Martedì: 08:30-18:30; Mercoledì: 08:30-18:30; Giovedì: 08:30-18:30; Venerdì: 08:30-12:30/13:30-15:30; Sabato: 09:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Brescia",
+    "comune": "Brescia",
+    "centro": "Centro Antiviolenza Butterfly",
+    "indirizzo": [
+      "Via Bertoni, 6"
+    ],
+    "contatti": [
+      "0302352018",
+      "3924886330"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00/14:00-17:00; Martedì: 09:00-12:00/14:00-17:00; Mercoledì: 09:00-12:00/14:00-17:00; Giovedì: 09:00-12:00/14:00-17:00; Venerdì: 09:00-12:00/14:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Brescia",
+    "comune": "Brescia",
+    "centro": "Casa delle Donne di Brescia",
+    "indirizzo": [
+      "Via S. Faustino, 38"
+    ],
+    "contatti": [
+      "0302400636",
+      "3331258139"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30/15:00-18:00; Martedì: 09:30-12:30/15:00-18:00; Mercoledì: 09:30-12:30/15:00-18:00; Giovedì: 09:30-12:30/15:00-18:00; Venerdì: 09:30-12:30/15:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Brescia",
+    "comune": "Brescia",
+    "centro": "Centro Antiviolenza il Cerchio della Luna",
+    "indirizzo": [
+      "Via Baracca,1"
+    ],
+    "contatti": [
+      "3516976821"
+    ],
+    "orari": [
+      "Lunedì: 14:30-17:30; Martedì: 14:30-17:30; Mercoledì: 14:30-17:30; Giovedì: 14:30-17:30; Venerdì: 14:30-17:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Brescia",
+    "comune": "Comunità Montana di Valle Trompia",
+    "centro": "Centro Antiviolenza Vivadonna",
+    "indirizzo": [
+      "Complesso Conventuale S. Maria degli Angeli – Via S. Francesco d’Assisi, s.n.c."
+    ],
+    "contatti": [
+      "0308337422",
+      "3357240973"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 09:30-12:30; Mercoledì: 15:00-18:00; Giovedì: 15:00-18:00; Venerdì: 09:30-12:30; Sabato: 09:30-12:30; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Brescia",
+    "comune": "Darfo",
+    "centro": "Centro Antiviolenza Donne e Diritti",
+    "indirizzo": [
+      "Via Barbolini, 4"
+    ],
+    "contatti": [
+      "0364536632",
+      "3383706886"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00/14:30-17:30; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Brescia",
+    "comune": "Iseo",
+    "centro": "Centro Antiviolenza Rete di Daphne",
+    "indirizzo": [
+      "Piazza Arsenale 1"
+    ],
+    "contatti": [
+      "3470777530"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-18:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Brescia",
+    "comune": "Salò",
+    "centro": "Centro Antiviolenza Chiare Acque",
+    "indirizzo": [
+      "Via Fantoni, 86",
+      "Via Giuseppe Ferrari, 9",
+      "Via Santo Stefano, 40"
+    ],
+    "contatti": [
+      "03651870245",
+      "3349713199"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 14:30-17:30; Mercoledì: 09:00-12:00; Giovedì: 14:30-17:30; Venerdì: 14:30-17:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Cremona",
+    "comune": "Crema",
+    "centro": "Centro Antiviolenza Associazione Donne contro la Violenza",
+    "indirizzo": [
+      "Via Mercato, 27"
+    ],
+    "contatti": [
+      "037380999",
+      "3393506466"
+    ],
+    "orari": [
+      "Lunedì: 09:00-11:00; Martedì: 15:00-18:00; Mercoledì: 09:00-15:00; Giovedì: chiuso; Venerdì: 09:00-12:00; Sabato: 09:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Cremona",
+    "comune": "Cremona",
+    "centro": "Centro Antiviolenza A.I.D.A.",
+    "indirizzo": [
+      "Via Palestro, 34"
+    ],
+    "contatti": [
+      "0372801427",
+      "3389604533",
+      "3534637579"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:30; Martedì: 09:00-12:30; Mercoledì: 09:00-12:30; Giovedì: 09:00-12:30; Venerdì: 09:00-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Lecco",
+    "comune": "Lecco",
+    "centro": "Centro Antiviolenza Telefono Donna Lecco",
+    "indirizzo": [
+      "Via Solferino, 13 A"
+    ],
+    "contatti": [
+      "0341363484"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: 10:00-12:00/17:00-19:00; Mercoledì: 10:00-12:00/14:30-18:30; Giovedì: 10:00-12:00/14:30-16:30; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Lecco",
+    "comune": "Merate, Casatenovo",
+    "centro": "Centro Antiviolenza L’ Altra metà del Cielo",
+    "indirizzo": [
+      "Via Sant’Ambrogio, 17"
+    ],
+    "contatti": [
+      "0399900678"
+    ],
+    "orari": [
+      "Lunedì: 16:00-18:00; Martedì: 10:00-12:00; Mercoledì: h24; Giovedì: 10:00-12:00; Venerdì: h24; Sabato: 09:00-12:00; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Lodi",
+    "comune": "Lodi",
+    "centro": "Centro Antiviolenza La Metà di Niente",
+    "indirizzo": [
+      "Via Gorini, 21"
+    ],
+    "contatti": [
+      "3313495221"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: 09:00-20:00; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Mantova",
+    "comune": "Mantova",
+    "centro": "Centro Antiviolenza Centro di Aiuto alla Vita di Mantova",
+    "indirizzo": [
+      "Via Vittorino da Feltre, 46"
+    ],
+    "contatti": [
+      "0376325737",
+      "3499011590"
+    ],
+    "orari": [
+      "Lunedì: 15:30-17:30; Martedì: 09:30-11:30; Mercoledì: 09:30-11:30/15:30-17:30; Giovedì: 09:30-11:30; Venerdì: 09:30-11:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Mantova",
+    "comune": "Mantova",
+    "centro": "Centro Antiviolenza Telefono Rosa Mantova",
+    "indirizzo": [
+      "Via Indipendenza 2"
+    ],
+    "contatti": [
+      "0376225656",
+      "3489910043"
+    ],
+    "orari": [
+      "Lunedì: 18:00-20:00; Martedì: 18:00-20:00; Mercoledì: 09:00-12:00; Giovedì: 18:00-20:00; Venerdì: 18:00-20:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Mantova",
+    "comune": "Mantova",
+    "centro": "Centro Antiviolenza Centro Donne Mantova",
+    "indirizzo": [
+      "Via Giovanni Falcone, 1"
+    ],
+    "contatti": [
+      "3899151596"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 10:00-12:30; Mercoledì: 15:00-18:00; Giovedì: 15:00-18:00; Venerdì: 15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Bresso",
+    "centro": "Centro Antiviolenza Mittatron Sportello Donna",
+    "indirizzo": [
+      "Via Bologna,4"
+    ],
+    "contatti": [
+      "0261455370",
+      "3666622300"
+    ],
+    "orari": [
+      "Lunedì: 16:00-19:00; Martedì: 16:00-19:00; Mercoledì: 09:00-12:00; Giovedì: 16:00-19:00; Venerdì: 09:00-12:00; Sabato: h24, su appuntamento; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Cinisello Balsamo",
+    "centro": "Centro Antiviolenza Ve.Nu.S Verso Nuove Strade",
+    "indirizzo": [
+      "Via Gorki, 50 – c/o Ospedale Bassini"
+    ],
+    "contatti": [
+      "0222199730",
+      "3666622300"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-19:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-19:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Corsico",
+    "centro": "Centro Antiviolenza La stanza dello scirocco",
+    "indirizzo": [
+      "Via Marzabotto, 12"
+    ],
+    "contatti": [
+      "800049722",
+      "3295870862"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00; Martedì: 14:00-17:00; Mercoledì: 14:00-17:00; Giovedì: 10:00-13:00; Venerdì: 10:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Legnano",
+    "centro": "Centro Antiviolenza Filo Rosa Auser",
+    "indirizzo": [
+      "Via XX settembre, 30"
+    ],
+    "contatti": [
+      "3483212482"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 10:00-13:00; Mercoledì: 16:00-19:00; Giovedì: 10:00-13:00; Venerdì: 16:00-19:00; Sabato: 10:00-13:00; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Magenta",
+    "centro": "Centro Antiviolenza Telefono Donna",
+    "contatti": [
+      "029735411"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 14:30-17:30; Mercoledì: 09:30-12:30; Giovedì: 14:30-17:30; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "indirizzo": [],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Melzo, Cassano d’Adda, Cernusco sul Naviglio, Pioltello, Trezzano Rosa",
+    "centro": "Centro Antiviolenza V.I.O.L.A.",
+    "indirizzo": [
+      "Via Verdi, 22"
+    ],
+    "contatti": [
+      "3931667083",
+      "3295870862"
+    ],
+    "orari": [
+      "Lunedì: 13:00-16:00; Martedì: 14:00-19:00; Mercoledì: 09:00-15:00; Giovedì: 09:00-12:00/13:00-16:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "CADMI – Casa d’accoglienza delle Donne Maltrattate di Milano",
+    "indirizzo": [
+      "Via Piacenza,14"
+    ],
+    "contatti": [
+      "0255015519"
+    ],
+    "orari": [
+      "Lunedì: 10:00-18:00; Martedì: 10:00-18:00; Mercoledì: 10:00-18:00; Giovedì: 10:00-18:00; Venerdì: 10:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "Centro Antiviolenza Cerchi d’Acqua contro la violenza",
+    "indirizzo": [
+      "Via Verona, 9"
+    ],
+    "contatti": [
+      "0258430117"
+    ],
+    "orari": [
+      "Lunedì: 10:00-14:00; Martedì: 10:00-14:00; Mercoledì: 10:00-18:00; Giovedì: 10:00-18:00; Venerdì: 10:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "Centro Antiviolenza Mai da sole",
+    "indirizzo": [
+      "Viale Marotta, 8"
+    ],
+    "contatti": [
+      "0221786390",
+      "3351251813"
+    ],
+    "orari": [
+      "Lunedì: 10:00-17:00; Martedì: 10:00-17:00; Mercoledì: 10:00-17:00; Giovedì: 10:00-17:00; Venerdì: 10:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "Centro Antiviolenza Servizio Disagio Donne",
+    "indirizzo": [
+      "Via San Bernardino, 4"
+    ],
+    "contatti": [
+      "0276037352",
+      "3371175658"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/14:00-17:00; Martedì: 09:00-13:00/14:00-17:00; Mercoledì: 09:00-13:00/14:00-17:00; Giovedì: 09:00-13:00/14:00-17:00; Venerdì: 09:00-13:00/14:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "Centro Antiviolenza Segnavia",
+    "indirizzo": [
+      "Piazza XXV Aprile, 2"
+    ],
+    "contatti": [
+      "3295870862"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00/14:00-17:00; Mercoledì: 14:00-18:00; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "SVSeD – Soccorso Violenza Sessuale e Domestica",
+    "indirizzo": [
+      "Via della Commenda, 12"
+    ],
+    "contatti": [
+      "0255038585",
+      "0255032489",
+      "0264084066"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "Centro Antiviolenza Telefono Donna Ospedale Niguarda",
+    "indirizzo": [
+      "Piazza Ospedale Maggiore, 3"
+    ],
+    "contatti": [
+      "0264443043",
+      "0264443044"
+    ],
+    "orari": [
+      "Lunedì: 09:30-17:30; Martedì: 09:30-17:30; Mercoledì: 09:30-17:30; Giovedì: 09:30-17:30; Venerdì: 09:30-17:30; Sabato: 09:30-17:30; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "SVS Antiviolenza Donna Aiuta Donna",
+    "indirizzo": [
+      "Via Rutilia, 28"
+    ],
+    "contatti": [
+      "0239628739",
+      "0285689902"
+    ],
+    "orari": [
+      "Lunedì: 10:00-16:30; Martedì: 10:00-16:30; Mercoledì: 09:00-16:30; Giovedì: 12:00-17:30; Venerdì: 10:00-16:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Milano",
+    "centro": "Centro Antiviolenza Ersilia Bronzini",
+    "indirizzo": [
+      "Via Giovanni Pacini, 20"
+    ],
+    "contatti": [
+      "3316405349"
+    ],
+    "orari": [
+      "Lunedì: h24, su appuntamento; Martedì: h24, su appuntamento; Mercoledì: h24, su appuntamento; Giovedì: h24, su appuntamento; Venerdì: h24, su appuntamento; Sabato: h24, su appuntamento; Domenica: h24, su appuntamento"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Pieve Emanuele",
+    "centro": "Centro Antiviolenza Donne Insieme contro la Violenza",
+    "indirizzo": [
+      "Via dei Pini, 8"
+    ],
+    "contatti": [
+      "0290422123"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 10:00-12:00/18:30-20:30; Mercoledì: 15:00-17:00; Giovedì: 17:30-19:30; Venerdì: 15:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "Rho, Bollate",
+    "centro": "Centro Antiviolenza Hara Ricomincio da me",
+    "indirizzo": [
+      "Via Meda, 20"
+    ],
+    "contatti": [
+      "3351820629",
+      "3295870862"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/14:00-18:00; Martedì: 13:00-17:00; Mercoledì: 09:00-13:00; Giovedì: 15:00-19:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Milano",
+    "comune": "San Donato Milanese, Peschiera Borromeo",
+    "centro": "Centro Antiviolenza Rete Fuori dal Silenzio",
+    "indirizzo": [
+      "Via Unica Bolgiano, 16"
+    ],
+    "contatti": [
+      "0236527138",
+      "3295870862"
+    ],
+    "orari": [
+      "Lunedì: 14:00-17:00; Martedì: 13:00-16:00; Mercoledì: 09:00-12:00; Giovedì: 14:00-17:00; Venerdì: 13:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Monza e della Brianza",
+    "comune": "Desio",
+    "centro": "Centro Antiviolenza White Mathilda",
+    "indirizzo": [
+      "Via Garibaldi, 46"
+    ],
+    "contatti": [
+      "0362621494",
+      "3664150907"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 15:00-18:00; Mercoledì: 15:00-18:00; Giovedì: 15:00-18:00; Venerdì: 15:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Monza e della Brianza",
+    "comune": "Lissone",
+    "centro": "Centro Antiviolenza Mittatron- Lissone Rete Artemide",
+    "indirizzo": [
+      "Via Como 57"
+    ],
+    "contatti": [
+      "3666622300"
+    ],
+    "orari": [
+      "Lunedì: 14:30-17:30; Martedì: 14:30-17:30; Mercoledì: 09:30-12:30; Giovedì: 14:30-17:30; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Monza e della Brianza",
+    "comune": "Monza",
+    "centro": "C.A.DO.M. Centro Aiuto alle Donne Maltrattate – APS",
+    "indirizzo": [
+      "Via Mentana, 43"
+    ],
+    "contatti": [
+      "0392840006",
+      "3802424671"
+    ],
+    "orari": [
+      "Lunedì: 14:30-17:30; Martedì: 09:30-12:30/14:30-17:30; Mercoledì: 09:30-12:30/14:30-17:30; Giovedì: 09:30-12:30/14:30-17:30; Venerdì: 14:30-17:30; Sabato: 09:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Monza e della Brianza",
+    "comune": "Monza",
+    "centro": "Centro Antiviolenza Monza",
+    "indirizzo": [
+      "Via Enrico Tazzoli, 6"
+    ],
+    "contatti": [
+      "3427526407",
+      "3289399522"
+    ],
+    "orari": [
+      "Lunedì: 14:30-17:30; Martedì: 09:30-12:30; Mercoledì: 14:30-17:30; Giovedì: 09:30-12:30; Venerdì: 14:30-17:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Monza e della Brianza",
+    "comune": "Seregno",
+    "centro": "White Mathilda",
+    "indirizzo": [
+      "Via Oliveti, 17"
+    ],
+    "contatti": [
+      "3664150907"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 15:00-18:00; Mercoledì: 15:00-18:00; Giovedì: 15:00-18:00; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Monza e della Brianza",
+    "comune": "Vimercate",
+    "centro": "Centro Antiviolenza Telefono Donna",
+    "indirizzo": [
+      "Largo Pontida 16"
+    ],
+    "contatti": [
+      "0395989614",
+      "3427526407"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 14:30-17:30; Mercoledì: 09:30-12:30; Giovedì: 14:30-17:30; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Pavia",
+    "comune": "Pavia",
+    "centro": "LiberaMente – Percorsi di donne contro la violenza",
+    "indirizzo": [
+      "Corso Garibaldi, 69"
+    ],
+    "contatti": [
+      "038232136",
+      "800306850",
+      "3342606499"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-18:00; Mercoledì: 09:00-18:00; Giovedì: 09:00-18:00; Venerdì: 09:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Pavia",
+    "comune": "Vigevano",
+    "centro": "Centro Antiviolenza Donna tutto per te",
+    "indirizzo": [
+      "C.so Torino, 36 B"
+    ],
+    "contatti": [
+      "3492827999"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Pavia",
+    "comune": "Voghera",
+    "centro": "C.H.I.A.R.A. – Chi Ha Invano Atteso Riceverà Aiuto",
+    "indirizzo": [
+      "Via Martinelli, 4"
+    ],
+    "contatti": [
+      "03831915589",
+      "3289556295"
+    ],
+    "orari": [
+      "Lunedì: 16:00-19:00; Martedì: 16:00-19:00; Mercoledì: 16:00-19:00; Giovedì: 16:00-19:00; Venerdì: 16:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Sondrio",
+    "comune": "Ardenno",
+    "centro": "Tua e le Altre",
+    "indirizzo": [
+      "Via Garibaldi 64"
+    ],
+    "contatti": [
+      "0343660216",
+      "3483141995"
+    ],
+    "orari": [
+      "Lunedì: 10:00-14:00; Martedì: 10:00-14:00; Mercoledì: chiuso; Giovedì: chiuso; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Sondrio",
+    "comune": "Sondrio",
+    "centro": "Il Coraggio di Frida",
+    "indirizzo": [
+      "Via Fracaiolo, 3"
+    ],
+    "contatti": [
+      "03421900726",
+      "335346178",
+      "3289281110"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 14:00-17:00; Mercoledì: 10:00-13:00; Giovedì: 09:00-12:00; Venerdì: 11:00-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Varese",
+    "comune": "Busto Arsizio",
+    "centro": "Centro Antiviolenza E.VA. – Emergenza contro la Violenza",
+    "indirizzo": [
+      "Via da Giussano 12"
+    ],
+    "contatti": [
+      "3345369630"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Varese",
+    "comune": "Marnate",
+    "centro": "Centro Antiviolenza Icore",
+    "indirizzo": [
+      "Via Italia, 151"
+    ],
+    "contatti": [
+      "0331618959"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 15:00-18:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Varese",
+    "comune": "Saronno",
+    "centro": "Centro Antiviolenza Rete Rosa",
+    "indirizzo": [
+      "Via Marana"
+    ],
+    "contatti": [
+      "0221065826"
+    ],
+    "orari": [
+      "Lunedì: 14:30-17:30; Martedì: 09:30-12:30; Mercoledì: 09:30-12:30; Giovedì: 09:30-12:30; Venerdì: 14:30-17:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Varese",
+    "comune": "Varese",
+    "centro": "Centro Antiviolenza EOS – Centro Ascolto Donna",
+    "indirizzo": [
+      "Via C. Robbioni 14"
+    ],
+    "contatti": [
+      "0332231271",
+      "3703264428"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00/15:00-17:30; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00/15:00-17:30; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Varese",
+    "comune": "Varese",
+    "centro": "Centro Antiviolenza Felicita Morandi",
+    "indirizzo": [
+      "Piazza Biroldi, 21 presso la Casa della nutrice"
+    ],
+    "contatti": [
+      "0332299501",
+      "3394658579"
+    ],
+    "orari": [
+      "Lunedì: 14:30-17:30; Martedì: 09:30-12:30; Mercoledì: 09:30-12:30; Giovedì: 09:30-12:30; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Varese",
+    "comune": "Varese, Travedona Monate, Luino, Sesto Calende",
+    "centro": "Centro Antiviolenza Donna Si-cura",
+    "indirizzo": [
+      "Via Mazzini 149"
+    ],
+    "contatti": [
+      "3401548441"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 15:30-18:30; Mercoledì: 09:30-12:30/15:30-18:30; Giovedì: 09:30-12:30; Venerdì: 09:30-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Lombardia"
+  },
+  {
+    "provincia": "Ancona",
+    "comune": "Ancona",
+    "centro": "Centro Antiviolenza Donne e Giustizia",
+    "indirizzo": [
+      "Via Sinigallia, 16"
+    ],
+    "contatti": [
+      "800032810",
+      "071205376",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/14:00-16:00; Martedì: 17:00-19:00; Mercoledì: 10:00-13:00; Giovedì: 10:00-13:00; Venerdì: 15:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Marche"
+  },
+  {
+    "provincia": "Ascoli Piceno",
+    "comune": "Ascoli Piceno, San Benedetto del Tronto, Spinetoli, Comunanza",
+    "centro": "Centro Antiviolenza Donna con te",
+    "indirizzo": [
+      "(Grottamare)b Via Marconi 50; (Ascoli Piceno) Viale Marcello Federici c/o Consultorio familiare stanza 2 Palazzina ex GIL oppure c/o Casa Albergo Ferrucci, Via San Serafino da Montegranaro 20; (San Benedetto del Tronto) c/o Consultorio Familiare, Ospedale Civile Palazzina F, Via Manara 7; (Spinetoli) c/o Spazio Abilita, Via 1° Maggio, 147"
+    ],
+    "contatti": [
+      "800021314",
+      "0736358914"
+    ],
+    "orari": [
+      "(Grottammare) Lunedì: 10:00-12:00; (Ascoli Piceno) Lunedì: 16:00-19:00; Mercoledì: 16:30-19:00; Giovedì: 09:30-12:30; (San Benedetto del Tronto) Martedì: 14:30-18:30; Mercoledì: 9:30-12:30;  Venerdì: 09:30-12:30; (Spinetoli) Giovedì: 15:00-17:00"
+    ],
+    "regione": "Marche"
+  },
+  {
+    "provincia": "Fermo",
+    "comune": "Sant’Elpidio a Mare, Pedaso, Fermo, Comunanza, Porto Sant’Elpidio",
+    "centro": "Centro Antiviolenza Percorsi donna",
+    "indirizzo": [
+      "(Fermo) Piazzale Azzolino, 18; (Pedaso) Via Spontini, 18; (Sant’Elpidio a Mare) Piazzale Marconi, 14; (Comunanza) Via G. Bruno, 1; (Porto Sant’Elpidio) Via S. Giovanni Bosco, 8"
+    ],
+    "contatti": [
+      "800215809"
+    ],
+    "orari": [
+      "(Pedaso) Lunedì: 9:30-13:30; (Fermo) Martedì: 9:30-13:30/14:30-17:30; Giovedì: 9:30-14:30; (Sant’Elpidio a Mare) Mercoledì: 9:30-13:30; (Comunanza) Mercoledì: 14:30-18:30 (ogni primo mercoledì del mese); (Porto Sant’Elpido) Venerdì: 12:00-17:00;"
+    ],
+    "regione": "Marche"
+  },
+  {
+    "provincia": "Macerata",
+    "comune": "Macerata, Civitanova Marche, Castel Raimondo, Porto Recanati, Tolentino e Sarnano",
+    "centro": "Centro Antiviolenza SoS Donna",
+    "indirizzo": [
+      "Piazza Mazzini,36"
+    ],
+    "contatti": [
+      "0733256487"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: 14:00-18:00; Mercoledì: 9:00-13:00; Giovedì: 14:00-18:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Marche"
+  },
+  {
+    "provincia": "Pesaro e Urbino",
+    "comune": "Pesaro, Urbino, Cagli",
+    "centro": "Centro Antiviolenza Parla con noi",
+    "indirizzo": [
+      "(Pesaro) Via Diaz, 10; (Cagli) Via Lapis, 10; (Urbino) Via Sasso, 122"
+    ],
+    "contatti": [
+      "0721639014"
+    ],
+    "orari": [],
+    "regione": "Marche"
+  },
+  {
+    "provincia": "Campobasso",
+    "comune": "Campobasso",
+    "centro": "Centro Antiviolenza Liberaluna",
+    "indirizzo": [
+      "Via Conterosso, 21A"
+    ],
+    "contatti": [
+      "800642367",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-20:00; Martedì: 10:00-13:00; Mercoledì: 10:00-13:00; Giovedì: 10:00-13:00; Venerdì: 10:00-13:00; Sabato: 10:00-13:00; Domenica: chiuso"
+    ],
+    "regione": "Molise"
+  },
+  {
+    "provincia": "Campobasso",
+    "comune": "Campobasso",
+    "centro": "Centro Antiviolenza BeFree Molise di Campobasso",
+    "indirizzo": [
+      "Viale del Castello, 68-72"
+    ],
+    "contatti": [
+      "3334820030",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00; Martedì: 10:00-13:00/15:00-18:00; Mercoledì: 10:00-13:00; Giovedì: 10:00-13:00/15:00-18:00; Venerdì: 10:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Molise"
+  },
+  {
+    "provincia": "Campobasso",
+    "comune": "Termoli",
+    "centro": "Centro Antiviolenza BeFree Molise di Termoli",
+    "indirizzo": [
+      "Via del Molinello, 1"
+    ],
+    "contatti": [
+      "3278296705"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: 15:00-17:00; Mercoledì: 09:00-11:00; Giovedì: 10:00-13:00; Venerdì: 10:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Molise"
+  },
+  {
+    "provincia": "Isernia",
+    "comune": "Isernia",
+    "centro": "Centro Antiviolenza BeFree Molise di Isernia",
+    "indirizzo": [
+      "Piazza Marconi, 1"
+    ],
+    "contatti": [
+      "3894451838",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-11:00; Martedì: 15:00-17:00; Mercoledì: 9:00-12:00; Giovedì: 15:00-17:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Molise"
+  },
+  {
+    "provincia": "Alessandria",
+    "comune": "Alessandria- Casale Monferrato",
+    "centro": "Centro Antiviolenza ME.DEA Onlus",
+    "indirizzo": [
+      "(Alessandria) Via Guasco, 47; (Casale Monferrato) Via Magnocavallo, 11"
+    ],
+    "contatti": [
+      "800098981"
+    ],
+    "orari": [
+      "Lunedì: 10:00-14:00; Martedì: 10:00-13:00; Mercoledì: 10:00-13:00/15:00-18:00; Giovedì: 15:30-18:30; Venerdì: 10:00-13:00/14:00-17:00; Sabato: 10:00-12:00; Domenica: 10:00-12:00"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Asti",
+    "comune": "Asti, Monastero Bormida",
+    "centro": "Centro Antiviolenza L’Orecchio di Venere",
+    "indirizzo": [
+      "Via Ugo Foscolo, 7"
+    ],
+    "contatti": [
+      "0141090009",
+      "3669287198",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-16:30; Martedì: chiuso; Mercoledì: 10:00-11:30; Giovedì: 16:30-20:00; Venerdì: chiuso; Sabato: 10:00-12:30; Domenica: chiuso; (Sportello di Asti) Martedì: 15:00-18:00; (Sportello di Monastero Bormida) primo Sabato del mese: 17:00-19:00"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Biella",
+    "comune": "Biella",
+    "centro": "Centro Antiviolenza Biellese",
+    "indirizzo": [
+      "Via Caraccio, 4"
+    ],
+    "contatti": [
+      "800266233",
+      "3280468929"
+    ],
+    "orari": [
+      "Lunedì: 14:00-15:30; Martedì: 09:30-11:30; Mercoledì: 12:30-14:00; Giovedì: 15:00-17:00; Venerdì: 12:30-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Cuneo",
+    "comune": "Bra, Alba",
+    "centro": "Centro Antiviolenza Bra-Alba",
+    "indirizzo": [
+      "Via Gianolio, 22"
+    ],
+    "contatti": [
+      "3351701008",
+      "h24"
+    ],
+    "orari": [],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Cuneo",
+    "comune": "Ceva Località San Bernardino, Mombasiglio, Priola, Niella Tanaro",
+    "centro": "Centro Antiviolenza FUTURO DONNA",
+    "indirizzo": [
+      "(Ceva San Bernardino) Via Case Rosse, 1; (Mombasiglio) presso il Municipio; (Niella Tanaro) presso il Municipio; (Priola) presso ex scuole elementari di Pivetta"
+    ],
+    "contatti": [
+      "3735088683",
+      "h24"
+    ],
+    "orari": [
+      "(Ceva San Bernardino) Lunedì: 14:30-16:00; Martedì: chiuso; Mercoledì: 14:30-16:00; Giovedì: 15:00-17:30; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso; (Sportello Mombasiglio) Martedì: 9.30-10.30; (Sportello Niella Tanaro): Giovedì 13:30-14:30; (Sportello Priola): Venerdì 15:30-16:30"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Cuneo",
+    "comune": "Cuneo, Dronero, Fossano, Mondovì, Savigliano, Salluzzo",
+    "centro": "Centro Antiviolenza 10 A",
+    "indirizzo": [
+      "Via Rocca De Baldi, 7"
+    ],
+    "contatti": [
+      "0171334181"
+    ],
+    "orari": [
+      "Lunedì: 15:00-17:30; Martedì: 10:30-12:30; Mercoledì: 11:00-13:00; Giovedì: chiuso; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Novara",
+    "comune": "Borgomanero",
+    "centro": "Centro Antiviolenza Area nord novarese",
+    "indirizzo": [
+      "Via Arona, 12"
+    ],
+    "contatti": [
+      "3510202597",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00; Martedì: 9:00-12:00; Mercoledì: 9:00-12:00; Giovedì: 15:00-18:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Novara",
+    "comune": "Novara",
+    "centro": "Centro antiviolenza Spazio Donna",
+    "indirizzo": [
+      "Via Bottini, 8"
+    ],
+    "contatti": [
+      "3482695812",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: h24; Martedì: h24; Mercoledì: h24; Giovedì: h24; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Chieri",
+    "centro": "Centro Antiviolenza InRete",
+    "indirizzo": [
+      "Via Vittorio Emanuele II, 1"
+    ],
+    "contatti": [
+      "800984548",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 9:00-14:00; Mercoledì: 9:30-15:30; Giovedì: chiuso; Venerdì: 9:30-15:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Chivasso, Rivarolo, Mathi",
+    "centro": "Centro Antiviolenza La casa di via domani",
+    "indirizzo": [
+      "Vicolo Cavalcavia, 11"
+    ],
+    "contatti": [
+      "0119111456",
+      "3934228492",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:30-11:30/15:30-18:00; Martedì: 09:30-11:30/15:30-18:00; Mercoledì: 15:30-18:30; Giovedì: 15:30-18:00; Venerdì: 15:30-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Collegno, Grugliasco, Alpignano, Pianezza, Moncalieri, Trofanello",
+    "centro": "Centro Donna – ARCI Valle Susa",
+    "contatti": [
+      "0114032271",
+      "3703432133",
+      "3771082919",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 17:00-19:00 su appuntamento; Mercoledì: chiuso; Giovedì: 13:00-15:00 su appuntamento; Venerdì: 10:00-12:00 su appuntamento; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "indirizzo": [],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Pinerolo, Rivoli, Orbassano",
+    "centro": "Centro Antiviolenza Svolta Donna",
+    "indirizzo": [
+      "Stradale Fenestrelle n.1"
+    ],
+    "contatti": [
+      "0121062380",
+      "800093900",
+      "3664607803"
+    ],
+    "orari": [
+      "Lunedì: 10:00-14:00; Martedì: 15:00-18:00; Mercoledì: 9:00-12:00; Giovedì: 15:00-18:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Settimo Torinese",
+    "centro": "Centro Antiviolenza Uscire dal silenzio",
+    "indirizzo": [
+      "Via Gen. Dalla Chiesa, 21"
+    ],
+    "contatti": [
+      "800688820",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 19:30-21:30; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00/15:30-18:30; Giovedì: chiuso; Venerdì: 15:30-18:30; Sabato: 10:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Torino",
+    "centro": "Associazione Volontarie del Telefono Rosa Piemonte di Torino",
+    "indirizzo": [
+      "Via Assietta, 13/A"
+    ],
+    "contatti": [
+      "011530666",
+      "0115628314",
+      "3273275692"
+    ],
+    "orari": [
+      "Lunedì: 9:30-13:30/15:00-19:00; Martedì: 9:30-13:30/14:00-18:00; Mercoledì: 9:30-13:30/14:00-18:00/19:00-23:00; Giovedì: 9:30-13:30/14:00-18:00/19:00-23:00; Venerdì: 9:30-13:30/14:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Torino",
+    "centro": "Centro Antiviolenza E.M.M.A.",
+    "indirizzo": [
+      "Via G. Passalacqua,6"
+    ],
+    "contatti": [
+      "0115187438"
+    ],
+    "orari": [
+      "Lunedì: 9:30-13:00/14:00-18:00; Martedì: 09:30-13:00/14:30-18:00; Mercoledì: chiuso; Giovedì: 09:30-13:00/14:30-18:00; Venerdì: 09:30-13:00/14:30-18:00; Sabato: chiuso; Domenica: 9:30-12:30"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Torino",
+    "centro": "Centro Antiviolenza della Città di Torino",
+    "indirizzo": [
+      "Via S. Marino 22 A/ Corso Unione Sovietica 228 D"
+    ],
+    "contatti": [
+      "01101131500"
+    ],
+    "orari": [
+      "Lunedì: 14:00-16:00; Martedì: 14:00-16:00; Mercoledì: 11:00-13:00; Giovedì: 09:00-11:00; Venerdì: 09:00-11:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Torino",
+    "centro": "Demetra Centro Supporto e Ascolto contro la violenza",
+    "indirizzo": [
+      "via Cherasco 23, presso Ospedale Dermatologico San Lazzaro"
+    ],
+    "contatti": [
+      "0116335899",
+      "3357169000"
+    ],
+    "orari": [
+      "Su appuntamento"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Torino",
+    "comune": "Torino, Amaltea",
+    "centro": "Centro donne contro la violenza",
+    "indirizzo": [
+      "Via Vanchiglia, 6"
+    ],
+    "contatti": [
+      "0112639710",
+      "3282174892",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 14:30-18:30; Martedì: 14:30-18:30; Mercoledì: 14:30-18:30; Giovedì: 14:30-18:30; Venerdì: 14:30-18:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Verbano-Cusio-Ossola",
+    "comune": "Domodossola",
+    "centro": "Centro Antiviolenza VCO",
+    "indirizzo": [
+      "Via Mizzoccola, 28"
+    ],
+    "contatti": [
+      "032452598",
+      "3356978767",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-17:00; Martedì: 9:00-17:00; Mercoledì: 9:00-17:00; Giovedì: 9:00-17:00; Venerdì: 9:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Vercelli",
+    "comune": "Santhià, Gattinara, Varallo, Borgosesia",
+    "centro": "Centro Antiviolenza Ricomincio da Qui",
+    "indirizzo": [
+      "(Santhià) Via E. De Amici, 45; (Varallo, Borgosesia) sede presso i Servizi Sociali; (Gattinara) Viale Marconi, 80"
+    ],
+    "contatti": [
+      "016194248",
+      "3357498480",
+      "3343176233"
+    ],
+    "orari": [
+      "(Santhià) Lunedì: 18:00-20:00; Martedì: 14:30-16:30; Mercoledì: 11:00-13:00; Giovedì: 13:30-15:30; Venerdì: 9:30-11:30; Sabato: chiuso; Domenica: chiuso; (Varallo, Borgosesia) Giovedì 10:00-11:00 (ogni 15 giorni); (Gattinara) Lunedì: 10:00-12:00; Mercoledì: 11:00-13:00; Venerdì 14:00-16:00"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Vercelli",
+    "comune": "Vercelli",
+    "centro": "Centro Antiviolenza Vercellese EOS",
+    "indirizzo": [
+      "Via Fratelli Garrone, 12"
+    ],
+    "contatti": [
+      "3343113955",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-14:00; Martedì: 12:00-16:00; Mercoledì: 10:00-14:00; Giovedì: 12:00-16:00; Venerdì: 10:00-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Piemonte"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Altamura",
+    "centro": "Centro Antiviolenza Liberamente",
+    "indirizzo": [
+      "Via Filippo Baldassarra, 7"
+    ],
+    "contatti": [
+      "0803147053",
+      "3391288500",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: 10:00-12:00; Mercoledì: 10:00-12:00/16:00-18:00; Giovedì: 10:00-12:00; Venerdì: 10:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Bari",
+    "centro": "Centro Antiviolenza Paola Labriola",
+    "indirizzo": [
+      "Via Napoli, 308"
+    ],
+    "contatti": [
+      "0805741461",
+      "3487777536",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: 9:00-12:00; Mercoledì: 9:00-13:00; Giovedì: 9:00-12:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Bari",
+    "centro": "Centro Antiviolenza comunale",
+    "indirizzo": [
+      "Strada S. Giorgio n. 21"
+    ],
+    "contatti": [
+      "800202330"
+    ],
+    "orari": [
+      "Lunedì: 14:30-18:30; Martedì: 14:30-18:30; Mercoledì: 9:00-13:00; Giovedì: 14:30-18:30; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Bitonto, Palo del Colle, Mariotto",
+    "centro": "Centro Antiviolenza Io sono mia",
+    "indirizzo": [
+      "Via Monsignor Calamita, 18"
+    ],
+    "contatti": [
+      "3807458616",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30/15:30-18:30; Martedì: 9:30-12:30/15:30-18:30; Mercoledì: 9:30-12:30/15:30-18:30; Giovedì: 9:30-12:30/pomeriggio per consulenze legali su appuntamento; Venerdì: 9:30-12:30; Sabato: h24, su appuntamento; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Bitonto",
+    "centro": "Centro Antiviolenza Oltre",
+    "indirizzo": [
+      "Via Abate Fornari, 27"
+    ],
+    "contatti": [
+      "3929389989",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: h24; Martedì: 10:00-12:00; Mercoledì: h24; Giovedì: h24; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Conversano, Polignano a Mare, Monopoli",
+    "centro": "Centro Antiviolenza Il Melograno",
+    "indirizzo": [
+      "Via Guido Reni, 27"
+    ],
+    "contatti": [
+      "0804163275"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00; Martedì: chiuso; Mercoledì: chiuso; Giovedì: 16:00-19:00; Venerdì: 9:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Gioia del Colle, Turi, San Michele di Bari, Casamassima",
+    "centro": "Centro Antiviolenza Lia",
+    "indirizzo": [
+      "Via Aldo Moro angolo via Einaudi"
+    ],
+    "contatti": [
+      "3889898797",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-19:00; Martedì: 9:00-19:00; Mercoledì: 9:00-19:00; Giovedì: 9:00-19:00; Venerdì: 9:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Molfetta, Giovinazzo",
+    "centro": "Centro Antiviolenza Pandora",
+    "indirizzo": [
+      "Piazza Rosa Luxemburg, 29"
+    ],
+    "contatti": [
+      "0805675384",
+      "800744006",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/17:00-20:00; Martedì: 10:00-13:00/17:00-20:00; Mercoledì: 10:00-13:00/17:00-20:00; Giovedì: 10:00-13:00; Venerdì: 17:00-20:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Noci",
+    "centro": "Centro Antiviolenza Andromeda",
+    "indirizzo": [
+      "Vico Silvio Pellico"
+    ],
+    "contatti": [
+      "3397871952",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-19:00; Martedì: 9:00-19:00; Mercoledì: 9:00-19:00; Giovedì: 9:00-19:00; Venerdì: 9:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Polignano a Mare",
+    "centro": "Centro Antiviolenza Safya",
+    "indirizzo": [
+      "Via Don Luigi Sturzo nc"
+    ],
+    "contatti": [
+      "0804249828"
+    ],
+    "orari": [
+      "Lunedì: 8:30-13:30; Martedì: 8:30-13:30; Mercoledì: 8:30-13:30; Giovedì: 8:30-13:30; Venerdì: 8:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Bari",
+    "comune": "Triggiano",
+    "centro": "Centro Antiviolenza Il Giardino delle lune",
+    "indirizzo": [
+      "Via Torricella, Palazzo Venisti"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 9:00-12:00; Mercoledì: chiuso; Giovedì: chiuso; Venerdì: 16:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "contatti": [],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Barletta-Andria-Trani",
+    "comune": "Andria, Canosa, Spinazzola, Minervino Murge",
+    "centro": "Centro Antiviolenza Riscoprirsi",
+    "indirizzo": [
+      "Via Don Luigi Sturzo, 46"
+    ],
+    "contatti": [
+      "0883764901",
+      "3803450670",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: 16:00-18:00; Mercoledì: 10:00-12:00; Giovedì: 17:00-19:00; Venerdì: 16:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Barletta-Andria-Trani",
+    "comune": "Barletta",
+    "centro": "Centro Antiviolenza Osservatorio Giulia e Rossella",
+    "indirizzo": [
+      "Via F. D’Aragona, 143"
+    ],
+    "contatti": [
+      "0883414659",
+      "3803473374",
+      "3887504780",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00/16:00-19:00; Martedì: 9:00-12:00/16:00-19:00; Mercoledì: 9:00-12:00/16:00-19:00; Giovedì: 9:00-12:00/16:00-19:00; Venerdì: 9:00-12:00/16:00-19:00; Sabato: 09:00-12:00; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Barletta-Andria-Trani",
+    "comune": "Barletta",
+    "centro": "Centro Antiviolenza Comunale Aurora",
+    "indirizzo": [
+      "Piazza Aldo Moro, 16- C.So Vittorio Emanuele, 84"
+    ],
+    "contatti": [
+      "0883890836"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00/15:00-18:00; Martedì: 9:00-12:00; Mercoledì: 9:00-12:00; Giovedì: 9:00-12:00; Venerdì: 9:00-12:00/15:00-19:00; Sabato: 09:00-12:00; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Barletta-Andria-Trani",
+    "comune": "Trani",
+    "centro": "Centro Antiviolenza Save",
+    "indirizzo": [
+      "Via G. di Vittorio, 60"
+    ],
+    "contatti": [
+      "0883501407"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00/16:00-18:00; Martedì: 10:00-12:00/16:00-18:00; Mercoledì: 10:00-12:00/16:00-18:00; Giovedì: 10:00-12:00/16:00-18:00; Venerdì: 10:00-12:00/16:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Brindisi",
+    "comune": "Brindisi",
+    "centro": "Centro Antiviolenza Ricomincio da me",
+    "indirizzo": [
+      "Via Giulio Cesare 22/t angolo via cocceio nerva"
+    ],
+    "contatti": [
+      "800688791",
+      "3501801953"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: 9:00-13:00; Mercoledì: 9:00-13:00; Giovedì: 9:00-13:00; Venerdì: 9:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Brindisi",
+    "comune": "Brindisi",
+    "centro": "Centro Antiviolenza Io Donna",
+    "indirizzo": [
+      "Via Tor Pisana 98"
+    ],
+    "contatti": [
+      "0831522034",
+      "3292236792",
+      "3203253755",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00/16:00-20:00; Martedì: 9:00-13:00; Mercoledì: 9:00-13:00/16:00-20:00; Giovedì: 9:00-13:00/16:00-20:00; Venerdì: 9:00-13:00/16:00-20:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Brindisi",
+    "comune": "Mesagne",
+    "centro": "Centro Antiviolenza La Luna",
+    "indirizzo": [
+      "Piazza Bartolo Longo, 17"
+    ],
+    "contatti": [
+      "0831729246",
+      "3357160446",
+      "3935697481",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-18:00; Martedì: 9:00-18:00; Mercoledì: 9:00-18:00; Giovedì: 9:00-18:00; Venerdì: 9:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Foggia",
+    "comune": "Cerignola",
+    "centro": "Centro Antiviolenza Titina Cioffi",
+    "indirizzo": [
+      "Via Recanati, 52"
+    ],
+    "contatti": [
+      "3792647361",
+      "3284044545",
+      "3792647322",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 9:00-12:00; Mercoledì: 9:00-12:00/15:30-18:30; Giovedì: 9:00-12:00; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Foggia",
+    "comune": "Foggia",
+    "centro": "Centro Antiviolenza Telefono Donna",
+    "indirizzo": [
+      "Via Bagnante, 16"
+    ],
+    "contatti": [
+      "0881772499",
+      "3284044545",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00/16:00-19:00; Martedì: 9:00-12:00/16:00-19:00; Mercoledì: 9:00-12:00/16:00-19:00; Giovedì: 9:00-12:00/16:00-19:00; Venerdì: 9:00-12:00/16:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Foggia",
+    "comune": "Foggia",
+    "centro": "Centro Antiviolenza Carmela Morlino",
+    "indirizzo": [
+      "Via Matteotti, 128"
+    ],
+    "contatti": [
+      "0881316620",
+      "3929959862",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30/15:30-18:30; Martedì: 9:30-12:30/15:30-18:30; Mercoledì: 9:30-12:30/15:30-18:30; Giovedì: 9:30-12:30/15:30-18:30; Venerdì: 9:30-12:30/15:30-18:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Foggia",
+    "comune": "Manfredonia",
+    "centro": "Centro Antiviolenza Rinascita Donna",
+    "indirizzo": [
+      "Via San Lorenzo, 47"
+    ],
+    "contatti": [
+      "0884519691",
+      "3495193603",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00; Martedì: chiuso; Mercoledì: 15:00-18:00; Giovedì: chiuso; Venerdì: 10:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Foggia",
+    "comune": "San Severo",
+    "centro": "Centro Antiviolenza Il filo di Arianna",
+    "indirizzo": [
+      "Via Palmiro Togliatti,36"
+    ],
+    "contatti": [
+      "3407685267",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-19:00; Martedì: 9:00-19:00; Mercoledì: 9:00-19:00; Giovedì: 9:00-19:00; Venerdì: 9:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Lecce",
+    "comune": "Casarano",
+    "centro": "Centro Antiviolenza Il Melograno",
+    "indirizzo": [
+      "Via Padre Stomeo, snc"
+    ],
+    "contatti": [
+      "0833509470",
+      "3288212906",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: 10:00-12:00; Mercoledì: 10:00-12:00; Giovedì: 10:00-12:00; Venerdì: 10:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Lecce",
+    "comune": "Galatina",
+    "centro": "Centro Antiviolenza Malala Yosafzai",
+    "indirizzo": [
+      "Via Montegrappa, 8"
+    ],
+    "contatti": [
+      "0836561550"
+    ],
+    "orari": [
+      "Lunedì: 8:00-12:00; Martedì: 8:00-12:00/15:00-18:00; Mercoledì: 8:00-12:00; Giovedì: 8:00-12:00/15:00-18:00; Venerdì: 8:00-12:00; Sabato: chiuso (attivo telefonicamente h24); Domenica: chiuso (attivo telefonicamente h24)"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Lecce",
+    "comune": "Lecce",
+    "centro": "Centro Antiviolenza Renata fonte",
+    "indirizzo": [
+      "Via Santa Maria del Paradiso 12"
+    ],
+    "contatti": [
+      "800098822",
+      "0832305767",
+      "3382518901",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:30-13:30/16:00-20:30; Martedì: 9:30-13:30/16:00-20:30; Mercoledì: 9:30-13:30/16:00-20:30; Giovedì: 9:30-13:30/16:00-20:30; Venerdì: 9:30-13:30/16:00-20:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Taranto",
+    "comune": "Martina Franca",
+    "centro": "Centro Antiviolenza Rompiamo il Silenzio",
+    "indirizzo": [
+      "Viale Della Libertà 29"
+    ],
+    "orari": [
+      "Lunedì: 9:00-18:00; Martedì: 9:00-18:00; Mercoledì: 9:00-18:00; Giovedì: 9:00-18:00; Venerdì: 9:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "contatti": [],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Taranto",
+    "comune": "Taranto",
+    "centro": "Centro Antiviolenza Sostegno Donna",
+    "indirizzo": [
+      "Via Cagliari angolo via Dante, 221/b asl ta"
+    ],
+    "contatti": [
+      "0997786652",
+      "3271833451",
+      "3317443573",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-14:00; Martedì: 9:00-17:00; Mercoledì: 9:00-14:00; Giovedì: 9:00-17:00; Venerdì: 9:00-14:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Puglia"
+  },
+  {
+    "provincia": "Cagliari",
+    "comune": "Cagliari",
+    "centro": "Centro Antiviolenza Donna Ceteris",
+    "indirizzo": [
+      "Via Cimarosa, 7"
+    ],
+    "contatti": [
+      "0708675405",
+      "070492400",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: h24; Martedì: h24; Mercoledì: h24; Giovedì: h24; Venerdì: h24; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Cagliari",
+    "comune": "Cagliari",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Viale Merello, 87/a"
+    ],
+    "contatti": [
+      "0702080137",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-18:00; Martedì: 9:00-15:00; Mercoledì: 9:00-16:00; Giovedì: 9:00-16:00; Venerdì: 9:00-14:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Nuoro",
+    "comune": "Macomer",
+    "centro": "Cav Unione Comuni del Marghine",
+    "indirizzo": [
+      "via Sebastiano Satta"
+    ],
+    "contatti": [
+      "3792569947",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-15:00; Martedì: 9:00-18:00; Mercoledì: 9:00-13:30/14:00-17:00; Giovedì: 9:00-14:00; Venerdì: 9:00-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Nuoro",
+    "comune": "Nuoro",
+    "centro": "Centro Antiviolenza Onda Rosa",
+    "indirizzo": [
+      "Via Sassari, 49"
+    ],
+    "contatti": [
+      "078438883",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-17:00; Martedì: 9:00-17:00; Mercoledì: 9:00-17:00; Giovedì: 9:00-17:00; Venerdì: 9:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Nuoro",
+    "comune": "Nuoro",
+    "centro": "Centro Antiviolenza Suor Giuseppina Demuro",
+    "indirizzo": [
+      "Via Roma, 95"
+    ],
+    "contatti": [
+      "3451164209"
+    ],
+    "orari": [
+      "Lunedì: 9:00-14:00; Martedì: 9:00-17:00; Mercoledì: 9:00-14:00; Giovedì: 9:00-17:00; Venerdì: 9:00-14:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Nuoro",
+    "comune": "Tortolì",
+    "centro": "Centro Antiviolenza Mai più violate",
+    "indirizzo": [
+      "Corso Vittorio Emanuele II,23"
+    ],
+    "contatti": [
+      "3450724180",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 09:30-12:30; Mercoledì: 15:30-18:30; Giovedì: 09:30-12:30; Venerdì: 15:30-18:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Oristano",
+    "comune": "Oristano",
+    "centro": "Centro antiviolenza Donna Eleonora",
+    "indirizzo": [
+      "Via Tirso, 8"
+    ],
+    "contatti": [
+      "078371286"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/15:00-18:00; Martedì: 09:00-13:00/15:00-18:00; Mercoledì: 09:00-13:00/15:00-18:00; Giovedì: 09:00-13:00/15:00-18:00; Venerdì: 09:00-13:00/15:00-18:00; Sabato: 9:00-11:00; Domenica: chiuso"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Sassari",
+    "comune": "Olbia",
+    "centro": "Centro Antiviolenza Prospettiva Donna",
+    "indirizzo": [
+      "Via delle Salicornie, 5"
+    ],
+    "contatti": [
+      "078927466",
+      "3311730915",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: 9:00-21:00; Domenica: chiuso"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Sassari",
+    "comune": "Ozieri",
+    "centro": "Centro Antiviolenza Spazio Donna PLUS Ozieri",
+    "indirizzo": [
+      "Via Mercato, 11"
+    ],
+    "contatti": [
+      "3455151531",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 11:00-13:00/13:30-20:00; Martedì: 8:00-18:00; Mercoledì: 8:00-14:00; Giovedì: 8:00-12:00; Venerdì: 8:00-14:00/14:30-15:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Sassari",
+    "comune": "Sassari",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via dei Mille, 61"
+    ],
+    "contatti": [
+      "079210311",
+      "800042248"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00/15:00-18:00; Martedì: 9:00-13:00/15:00-18:00; Mercoledì: 9:00-13:00/15:00-18:00; Giovedì: 9:00-13:00/15:00-18:00; Venerdì: 09:00-13:00/15:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Sud Sardegna",
+    "comune": "Carbonia-Iglesias",
+    "centro": "Centro Antiviolenza Ambiti PLUS di Carbonia e Iglesias",
+    "indirizzo": [
+      "Via Porceddu 12"
+    ],
+    "contatti": [
+      "800984434",
+      "800821663",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-19:00; Martedì: 9:00-13:00; Mercoledì: 15:00-19:00; Giovedì: 9:00-13:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Sud Sardegna",
+    "comune": "San Gavino",
+    "centro": "Centro Antiviolenza Feminas",
+    "contatti": [
+      "3206874061"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 14:00-16:00; Mercoledì: chiuso; Giovedì: 14:00-16:00; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "indirizzo": [],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Sud Sardegna",
+    "comune": "Sanluri",
+    "centro": "Centro Antiviolenza Feminas",
+    "contatti": [
+      "3807879876"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: chiuso; Mercoledì: 15:00-17:00; Giovedì: chiuso; Venerdì: 09:00-11:00; Sabato: h24; Domenica: h24"
+    ],
+    "indirizzo": [],
+    "regione": "Sardegna"
+  },
+  {
+    "provincia": "Agrigento",
+    "comune": "Agrigento",
+    "centro": "Centro Antiviolenza Telefono Aiuto",
+    "indirizzo": [
+      "Salita Francesco Sala, 15"
+    ],
+    "contatti": [
+      "092222922",
+      "3512712588"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-18:00; Mercoledì: 09:00-18:00; Giovedì: 09:00-18:00; Venerdì: 09:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Agrigento",
+    "comune": "Favara",
+    "centro": "Centro Antiviolenza Gloria",
+    "indirizzo": [
+      "Via Cappello, 27"
+    ],
+    "contatti": [
+      "092232829",
+      "3806390111",
+      "3283741107"
+    ],
+    "orari": [
+      "Lunedì: 09:00-18:00; Martedì: 09:00-18:00; Mercoledì: 09:00-18:00; Giovedì: 09:00-18:00; Venerdì: 09:00-18:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Caltanissetta",
+    "comune": "Caltanissetta",
+    "centro": "Centro Antiviolenza Galatea e il Tulipano",
+    "indirizzo": [
+      "Via Trieste, 132"
+    ],
+    "contatti": [
+      "0934551010",
+      "3801929687"
+    ],
+    "orari": [
+      "Lunedì: 15:30-19:30; Martedì: chiuso; Mercoledì: 15:30-19:30; Giovedì: chiuso; Venerdì: 09:00-13:00/15:30-19:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Catania",
+    "comune": "Acireale",
+    "centro": "Centro Antiviolenza il Bucaneve",
+    "indirizzo": [
+      "Via Galatea, 224"
+    ],
+    "contatti": [
+      "0952888230",
+      "3491338196"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 09:30-12:30; Mercoledì: 09:30-12:30; Giovedì: 09:30-12:30; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Catania",
+    "comune": "Bronte",
+    "centro": "Associazione Telefono Rosa Sicilia ODV ETS",
+    "indirizzo": [
+      "Viale Duca Amedeo D’aosta, 27"
+    ],
+    "contatti": [
+      "3899146209"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00/16:00-18:00; Martedì: 10:00-12:00/16:00-18:00; Mercoledì: 10:00-12:00/16:00-18:00; Giovedì: 10:00-12:00/16:00-18:00; Venerdì: 10:00-12:00/16:00-18:00; Sabato: 10:00-12:00; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Catania",
+    "comune": "Caltagirone",
+    "centro": "Albanuova Centro Antiviolenza",
+    "indirizzo": [
+      "Via Grazia 41, 49"
+    ],
+    "contatti": [
+      "09331931490",
+      "3357195169"
+    ],
+    "orari": [
+      "Lunedì: 16:00-19:00; Martedì: chiuso; Mercoledì: 16:00-19:00; Giovedì: 16:00-19:00; Venerdì: 16:00-19:00; Sabato: 09:00-13:00; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Catania",
+    "comune": "Catania",
+    "centro": "Centro Antiviolenza Thamaia",
+    "indirizzo": [
+      "Via G. Macherione, 14"
+    ],
+    "contatti": [
+      "0957223990"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: chiuso; Mercoledì: 09:00-13:00; Giovedì: 12:00-16:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Enna",
+    "comune": "Piazza Armerina",
+    "centro": "Associazione Donne Insieme Sandra Crescimanno",
+    "indirizzo": [
+      "Contrada Bellia"
+    ],
+    "contatti": [
+      "0935982463",
+      "3209440262"
+    ],
+    "orari": [
+      "Lunedì: 15:30-17:00; Martedì: 09:30-12:30; Mercoledì: chiuso; Giovedì: 09:30-12:30; Venerdì: 09:00-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Messina",
+    "comune": "Capo D’orlando",
+    "centro": "Centro Antiviolenza Pink Project",
+    "indirizzo": [
+      "Via Tripoli, 17"
+    ],
+    "contatti": [
+      "0941054182",
+      "3478987147"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/15:00-19:00; Martedì: 09:00-13:00/15:00-19:00; Mercoledì: 09:00-13:00/15:00-19:00; Giovedì: 09:00-13:00/15:00-19:00; Venerdì: 09:00-13:00/15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Messina",
+    "comune": "Gaggi",
+    "centro": "Centro Antiviolenza Generosa",
+    "indirizzo": [
+      "Via Villamena, 18"
+    ],
+    "contatti": [
+      "0942681667",
+      "3299446914"
+    ],
+    "orari": [
+      "Lunedì: su appuntamento, 09:00-13:00; Martedì: su appuntamento, 09:00-13:00; Mercoledì: su appuntamento, 09:00-13:00; Giovedì: su appuntamento, 09:00-13:00; Venerdì: su appuntamento, 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Messina",
+    "comune": "Messina",
+    "centro": "Centro antiviolenza Evaluna",
+    "indirizzo": [
+      "Via Giovanni Pascoli 21"
+    ],
+    "contatti": [
+      "0902408425",
+      "3476993034"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 16:00-20:00; Mercoledì: 09:30-12:30; Giovedì: 16:00-20:00; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Messina",
+    "comune": "Messina",
+    "centro": "Centro Donne Antiviolenza",
+    "indirizzo": [
+      "Via G.A. Cesario, 24"
+    ],
+    "contatti": [
+      "0902130166",
+      "3472630913"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00; Martedì: chiuso; Mercoledì: 10:00-13:00/15:30-18:30; Giovedì: chiuso; Venerdì: 10:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Messina",
+    "comune": "San Piero Patti",
+    "centro": "Centro Antiviolenza No al Silenzio",
+    "indirizzo": [
+      "Via Sant’Anna, 44"
+    ],
+    "contatti": [
+      "0941669201",
+      "3311641974"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 09:00-12:00/15:00-18:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Messina",
+    "comune": "Sant’Agata di Militello",
+    "centro": "Centro Antiviolenza Pink Project",
+    "indirizzo": [
+      "Via Medici, 52"
+    ],
+    "contatti": [
+      "09411950733",
+      "3478987147"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00; Martedì: 09:00-13:00/15:00-19:00; Mercoledì: 09:00-13:00/15:00-19:00; Giovedì: 15:00-19:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Messina",
+    "comune": "Villa Franca Tirrena",
+    "centro": "Centro Antiviolenza Una di noi",
+    "indirizzo": [
+      "Via Quasimodo snc"
+    ],
+    "contatti": [
+      "3426239473",
+      "3480457713"
+    ],
+    "orari": [
+      "Lunedì: chiuso, su appuntamento; Martedì: chiuso, su appuntamento; Mercoledì: chiuso, su appuntamento; Giovedì: chiuso, su appuntamento; Venerdì: 15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Palermo",
+    "comune": "Bagheria",
+    "centro": "Centro Antiviolenza Donne Nuove",
+    "indirizzo": [
+      "Via Caputo, 66"
+    ],
+    "contatti": [
+      "091901004"
+    ],
+    "orari": [
+      "Lunedì: 08:00-20:00; Martedì: 08:00-20:00; Mercoledì: 08:00-20:00; Giovedì: 08:00-20:00; Venerdì: 08:00-20:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Palermo",
+    "comune": "Bagheria",
+    "centro": "CAV Sambaia",
+    "indirizzo": [
+      "Via Capitano Luigi Giorgi, 3"
+    ],
+    "contatti": [
+      "0912754871",
+      "3270944601"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 14:30-18:30; Mercoledì: 09:30-13:30; Giovedì: 09:30-13:30; Venerdì: 09:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Palermo",
+    "comune": "Casteldaccia",
+    "centro": "Centro Antiviolenza Mai più sole",
+    "indirizzo": [
+      "Via Ugo la Malfa,65"
+    ],
+    "contatti": [
+      "091954444"
+    ],
+    "orari": [
+      "Lunedì: 09:00-14:00; Martedì: 15:00-19:00; Mercoledì: 09:00-14:00; Giovedì: 09:00-14:00; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Palermo",
+    "comune": "Palermo",
+    "centro": "Centro Antiviolenza Trinacria",
+    "indirizzo": [
+      "Via A. De Gregorio, 15"
+    ],
+    "contatti": [
+      "0916614002",
+      "3274553727"
+    ],
+    "orari": [
+      "Lunedì: 09:30-13:30; Martedì: 09:30-13:30; Mercoledì: 14:30-18:30; Giovedì: 09:30-13:30; Venerdì: 09:30-13:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Palermo",
+    "comune": "Palermo",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via Ammiraglio Persano, 46"
+    ],
+    "contatti": [
+      "0918437236",
+      "3391690885"
+    ],
+    "orari": [
+      "Lunedì: 15:00-19:00; Martedì: 09:30-13:30/18:00-19:00; Mercoledì: chiuso; Giovedì: chiuso; Venerdì: 09:30-13:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Palermo",
+    "comune": "Palermo",
+    "centro": "Centro Antiviolenza Le Onde Onlus",
+    "indirizzo": [
+      "Viale Campania, 25"
+    ],
+    "contatti": [
+      "091327973"
+    ],
+    "orari": [
+      "Lunedì: 09:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 09:00-19:00; Venerdì: 09:00-19:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Palermo",
+    "comune": "San Giuseppe Jato",
+    "centro": "Centro Antiviolenza Incontro Donna",
+    "indirizzo": [
+      "Via Vittorio Emanuele III, 3"
+    ],
+    "contatti": [
+      "0918572244",
+      "3533305865"
+    ],
+    "orari": [
+      "Lunedì: 15:30-19:30; Martedì: 09:00-13:00; Mercoledì: 15:30-19:30; Giovedì: chiuso; Venerdì: 15:30-19:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Ragusa",
+    "comune": "Ragusa",
+    "centro": "Centro Antiviolenza il Pettirosso",
+    "indirizzo": [
+      "Via Taormina, 1"
+    ],
+    "contatti": [
+      "09321911744"
+    ],
+    "orari": [
+      "Lunedì: 16:30-19:30; Martedì: chiuso; Mercoledì: 09:00-13:00; Giovedì: 09:00-13:00; Venerdì: 09:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Ragusa",
+    "comune": "Ragusa, Comiso",
+    "centro": "Centro Donna Antiviolenza",
+    "indirizzo": [
+      "Via Libertà, 21"
+    ],
+    "contatti": [
+      "0932748377",
+      "3331051084"
+    ],
+    "orari": [
+      "Lunedì: 09:00-21:00; Martedì: 09:00-21:00; Mercoledì: 09:00-21:00; Giovedì: 09:00-21:00; Venerdì: 09:00-21:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Ragusa",
+    "comune": "Vittoria",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via Pier Paolo Pasolini"
+    ],
+    "contatti": [
+      "09321887948",
+      "3409725264"
+    ],
+    "orari": [
+      "Lunedì: 09:30-12:30; Martedì: 15:30-18:30; Mercoledì: chiuso; Giovedì: 15:30-18:30; Venerdì: chiuso; Sabato: 10:00-12:30; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Siracusa",
+    "comune": "Avola",
+    "centro": "Centro Antiviolenza Doride",
+    "indirizzo": [
+      "Via Mazzini, 42"
+    ],
+    "contatti": [
+      "0931583202"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:00; Martedì: 15:30-19:00; Mercoledì: 10:00-12:00; Giovedì: 15:30-19:00; Venerdì: 10:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Siracusa",
+    "comune": "Floridia",
+    "centro": "Centro Antiviolenza Pink House",
+    "indirizzo": [
+      "Via Papa Paolo VI, 67"
+    ],
+    "contatti": [
+      "3881125054"
+    ],
+    "orari": [
+      "Lunedì: 08:30-12:30; Martedì: 08:30-12:30; Mercoledì: chiuso; Giovedì: 08:30-12:30; Venerdì: 08:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Siracusa",
+    "comune": "Lentini",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via Catania 96/98"
+    ],
+    "contatti": [
+      "0957835316"
+    ],
+    "orari": [
+      "Lunedì: 09:00-20:00; Martedì: 09:00-20:00; Mercoledì: 09:00-20:00; Giovedì: 09:00-20:00; Venerdì: 09:00-20:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Siracusa",
+    "comune": "Siracusa",
+    "centro": "Centro Antiviolenza Ipazia",
+    "indirizzo": [
+      "Via Teracati, 156"
+    ],
+    "contatti": [
+      "09311385094",
+      "3762104425"
+    ],
+    "orari": [
+      "Lunedì: chiuso; Martedì: 09:30-13:00/15:30-19:30; Mercoledì: chiuso; Giovedì: 16:30-19:30; Venerdì: chiuso; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Siracusa",
+    "comune": "Siracusa",
+    "centro": "Centro Antiviolenza La Nereide",
+    "indirizzo": [
+      "Via Forlanini 3"
+    ],
+    "contatti": [
+      "093161000",
+      "3497586157"
+    ],
+    "orari": [
+      "Lunedì: 08:00-19:00; Martedì: 08:00-19:00; Mercoledì: 08:00-19:00; Giovedì: 08:00-19:00; Venerdì: 08:00-19:00; Sabato: 09:00-12:00; Domenica: chiuso"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Trapani",
+    "comune": "Trapani",
+    "centro": "Centro Antiviolenza CO.TU.LE.VI",
+    "indirizzo": [
+      "Via XXX Gennaio – presso Palazzo di Giustizia"
+    ],
+    "contatti": [
+      "0923802433",
+      "3801948678"
+    ],
+    "orari": [
+      "Lunedì: 08:00-13:00; Martedì: 08:00-13:00; Mercoledì: 08:00-13:00; Giovedì: 08:00-13:00; Venerdì: 08:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Sicilia"
+  },
+  {
+    "provincia": "Arezzo",
+    "comune": "Arezzo",
+    "centro": "Centro Antiviolenza Pronto Donna",
+    "indirizzo": [
+      "Viale Michelangelo, 8"
+    ],
+    "contatti": [
+      "0575355053"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00/15:00-18:00; Martedì: 9:00-13:00/15:00-18:00; Mercoledì: 9:00-13:00/15:00-18:00; Giovedì: 9:00-13:00/15:00-18:00; Venerdì: 9:00-13:00/15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Firenze",
+    "comune": "Empoli",
+    "centro": "Centro Antiviolenza Aiuto Donna Lilith",
+    "indirizzo": [
+      "Via XX Settembre, 17"
+    ],
+    "contatti": [
+      "0571725156",
+      "3351019810"
+    ],
+    "orari": [
+      "Lunedì: 9:00-19:00; Martedì: 9:00-19:00; Mercoledì: 9:00-19:00; Giovedì: 9:00-19:00; Venerdì: 9:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Firenze",
+    "comune": "Firenze",
+    "centro": "Centro Antiviolenza Artemisia",
+    "indirizzo": [
+      "Via del Mezzetta, 1"
+    ],
+    "contatti": [
+      "055601375"
+    ],
+    "orari": [
+      "Lunedì: 10:00-17:00; Martedì: 10:00-17:00; Mercoledì: 10:00-17:00; Giovedì: 10:00-17:00; Venerdì: 10:00-17:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Grosseto",
+    "comune": "Grosseto, Follonica, Cabalbio, Arcidosso e Manciano",
+    "centro": "Centro Antiviolenza Olympia",
+    "indirizzo": [
+      "Via Ansedonia, 6 – Grosseto"
+    ],
+    "contatti": [
+      "0564413884"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: 9:00-13:00/14:00-17:30; Mercoledì: 9:00-13:00/14:00-17:30; Giovedì: 9:00-13:00/14:00-17:30; Venerdì: 9:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Grosseto",
+    "comune": "Orbetello",
+    "centro": "Centro Antiviolenza Olympia Orbetello",
+    "indirizzo": [
+      "Via Carlo Steeb, 1"
+    ],
+    "contatti": [
+      "3489376554"
+    ],
+    "orari": [
+      "Lunedì: 16:00-18:00; Martedì: 16:00-18:00; Mercoledì: 10:00-12:00; Giovedì: chiuso; Venerdì: 10:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Livorno",
+    "comune": "Livorno",
+    "centro": "Centro Antiviolenza Ippogrifo",
+    "indirizzo": [
+      "Via Monte Grappa n. 5"
+    ],
+    "contatti": [
+      "0586889594"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30; Martedì: 9:30-12:30/15:30-18:30; Mercoledì: 9:30-12:30/15:30-18:30; Giovedì: 9:30-12:30/15:30-19:30; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Livorno",
+    "comune": "Livorno",
+    "centro": "Centro Antiviolenza Randi",
+    "indirizzo": [
+      "Piazza XX Settembre 1 G"
+    ],
+    "contatti": [
+      "3392785450",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: 9:00-13:00; Mercoledì: 9:00-13:00; Giovedì: 9:00-13:00/17:00-19:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Livorno",
+    "comune": "Piombino",
+    "centro": "Centro Antiviolenza Centro Donna",
+    "indirizzo": [
+      "Via Lerario, 92"
+    ],
+    "contatti": [
+      "056549419",
+      "3425858081",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00; Martedì: 9:00-12:00; Mercoledì: 9:00-12:00; Giovedì: 9:00-12:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Lucca",
+    "comune": "Lucca",
+    "centro": "ETS Centro Antiviolenza Luna APS",
+    "indirizzo": [
+      "Via G. Ungaretti 86"
+    ],
+    "contatti": [
+      "0583997928",
+      "3783048903",
+      "3408551729",
+      "3482833360"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00/15:00-19:00; Martedì: 9:00-13:00/15:00-19:00; Mercoledì: 9:00-13:00/15:00-19:00; Giovedì: 9:00-13:00/15:00-19:00; Venerdì: 9:00-13:00; Sabato: 8:00-20:00; Domenica: 8:00-20:00"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Lucca",
+    "comune": "Ponte di Campia – Gallicano",
+    "centro": "Centro Antiviolenza Non Ti Scordar di Te",
+    "indirizzo": [
+      "Via Provinciale, 6"
+    ],
+    "contatti": [
+      "0583766094",
+      "3505800110"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 17:00-19:00; Mercoledì: 14:30-17:30; Giovedì: chiuso; Venerdì: 9:30-13:00; Sabato: 9:30-13:00; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Lucca",
+    "comune": "Viareggio",
+    "centro": "Centro Antiviolenza L’una per l’altra",
+    "indirizzo": [
+      "Via Marco Polo, 6"
+    ],
+    "contatti": [
+      "058456136",
+      "0584407879",
+      "800800811"
+    ],
+    "orari": [
+      "Lunedì: 15:30-18:30; Martedì: 15:30-18:30; Mercoledì: 15:30-18:30; Giovedì: 9:30-12:30; Venerdì: 10:00-13:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Massa-Carrara",
+    "comune": "Arpiola, Mulazzo, Villafranca-Bagnone, Filattiera, Pontremoli, Tresana, Fivizzano, Licciana Nardi",
+    "centro": "Centro Donna Lunigiana",
+    "indirizzo": [
+      "Mulazzo c/o Casa della Salute"
+    ],
+    "contatti": [
+      "3457413683",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-17:00; Martedì: 9:00-17:00; Mercoledì: 9:00-17:00; Giovedì: 9:00-17:00; Venerdì: 9:00-17:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Massa-Carrara",
+    "comune": "Carrara",
+    "centro": "Centro Antiviolenza Donna chiama Donna",
+    "indirizzo": [
+      "Piazza Lodovici"
+    ],
+    "contatti": [
+      "800592744",
+      "3457975099",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30; Martedì: 15:30-18:30; Mercoledì: 9:00-12:30; Giovedì: 15:30-18:30; Venerdì: 9:00-12:30; Sabato: h24 su appuntamento; Domenica: h24 su appuntamento"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Massa-Carrara",
+    "comune": "Massa",
+    "centro": "Centro Antiviolenza D.U.N.A. Donne Unite Nell’Antiviolenza",
+    "indirizzo": [
+      "Piazza Pellegrini, 1"
+    ],
+    "contatti": [
+      "3776994263",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30/15:00-19:00; Martedì: 9:30-12:30/15:00-19:00; Mercoledì: 9:30-12:30/15:00-19:00; Giovedì: 9:30-12:30/15:00-19:00; Venerdì: 9:30-12:30/15:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Pisa",
+    "comune": "Pisa",
+    "centro": "Centro Antiviolenza Casa della donna Pisa",
+    "indirizzo": [
+      "Via Galli Tassi, 8 – Pisa"
+    ],
+    "contatti": [
+      "050561628"
+    ],
+    "orari": [
+      "Lunedì: 10:00-13:00/16:00-18:00; Martedì: 10:00-18:00; Mercoledì: 10:00-13:00/16:00-18:00; Giovedì: 10:00-13:00/16:00-18:00; Venerdì: 10:00-13:00/16:00-18:00; Sabato: 10:00-13:00/16:00-18:00; Domenica: 10:00-13:00/16:00-18:00"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Pisa",
+    "comune": "San Miniato",
+    "centro": "Centro Antiviolenza Frida Kahlo",
+    "indirizzo": [
+      "Via dei Beccaia, 54"
+    ],
+    "contatti": [
+      "05711720447",
+      "3467578833",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00/14:00-18:00; Martedì: 9:00-13:00/14:00-18:00; Mercoledì: 9:00-13:00; Giovedì: 9:00-13:00/14:00-18:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Pistoia",
+    "comune": "Pistoia",
+    "centro": "Centro Antiviolenza Aiutodonna",
+    "indirizzo": [
+      "Piazza Belvedere, 5"
+    ],
+    "contatti": [
+      "057321175"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00; Martedì: 15:00-18:00; Mercoledì: 9:00-12:00; Giovedì: 9:00-12:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Pistoia",
+    "comune": "Sede Montecatini, servono tutta la Valdinievole",
+    "centro": "Centro Antiviolenza 365giornialfemminile Liberetutte",
+    "indirizzo": [
+      "Via Bellini, 32B"
+    ],
+    "contatti": [
+      "3406850751"
+    ],
+    "orari": [
+      "Lunedì: 9:00-18:00; Martedì: 9:00-18:00; Mercoledì: 9:00-18:00; Giovedì: 9:00-18:00; Venerdì: 9:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Prato",
+    "comune": "Prato",
+    "centro": "Centro Antiviolenza La Nara",
+    "indirizzo": [
+      "Via Verdi, 13"
+    ],
+    "contatti": [
+      "057434472"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00/14:00-18:00; Martedì: 9:00-13:00/14:00-18:00; Mercoledì: 9:00-13:00/14:00-18:00; Giovedì: 9:00-13:00/14:00-18:00; Venerdì: 9:00-13:00/14:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Siena",
+    "comune": "Chianciano Terme",
+    "centro": "Centro Antiviolenza Associazione Amica donna Aps",
+    "indirizzo": [
+      "Via Sabatini 49"
+    ],
+    "contatti": [
+      "3929504270",
+      "3293050686",
+      "3279999228",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 9:00-12:00; Mercoledì: 15:00-18:00; Giovedì: 15:00-18:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Siena",
+    "comune": "Colle di Val d’Elsa",
+    "centro": "Centro Antiviolenza Donne Insieme Val d’Elsa",
+    "indirizzo": [
+      "Via XXV Aprile, 122"
+    ],
+    "contatti": [
+      "0577602273",
+      "3662067788"
+    ],
+    "orari": [
+      "(Per il numero fisso) Lunedì: 18:00-19:00; Martedì: 9:00-15:00; Mercoledì: 18:00-19:00; Giovedì: 9:00-13:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso; (Per il numero cellulare) Lunedì: 9:00-21.00; Martedì: 9:00-21:00; Mercoledì: 9:00-21:00; Giovedì: 9:00-21.00; Venerdì: 9:00-21:00; Sabato: 9:00-21:00 Domenica: chiuso (No festivi)"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Siena",
+    "comune": "Piancastagnaio",
+    "centro": "Centro Antiviolenza Donna Amiata Val d’Orcia ODV",
+    "indirizzo": [
+      "Viale Gramsci, 158/G"
+    ],
+    "contatti": [
+      "3924147596"
+    ],
+    "orari": [
+      "Lunedì: 8:00-20:00; Martedì: 8:00-20:00; Mercoledì: 8:00-20:00; Giovedì: 8:00-20:00; Venerdì: 8:00-20:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Siena",
+    "comune": "Siena",
+    "centro": "Associazione Donna chiama Donna",
+    "indirizzo": [
+      "Via Roma, 75"
+    ],
+    "contatti": [
+      "0577288967",
+      "3472220188"
+    ],
+    "orari": [
+      "Lunedì: 16:30-19:00; Martedì: 9:00-12:00/16:30-18:30; Mercoledì: 16:00-19:00; Giovedì: 15:00-18:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Toscana"
+  },
+  {
+    "provincia": "Bolzano/Bozen",
+    "comune": "Bolzano",
+    "centro": "Centro d’ascolto Antiviolenza",
+    "indirizzo": [
+      "Via del Ronco, 21"
+    ],
+    "contatti": [
+      "800276433",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 08:30-15:30; Martedì: 08:30-17:30; Mercoledì: 12:30-17:30; Giovedì: 13:00-18:00; Venerdì: 08:30-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Trentino-Alto Adige/Südtirol"
+  },
+  {
+    "provincia": "Bolzano/Bozen",
+    "comune": "Bressanone",
+    "centro": "Centro d’Ascolto antiviolenza della Comunità Comprensoriale Valle Isarco",
+    "indirizzo": [
+      "Via Roma, 7"
+    ],
+    "contatti": [
+      "0472820587",
+      "800601330",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 08:30-13:00/14:00-16:30; Martedì: 14:00-16:30; Mercoledì: 08:30-13:00; Giovedì: 08:30-13:00/14:00-16:30; Venerdì: 08:30-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Trentino-Alto Adige/Südtirol"
+  },
+  {
+    "provincia": "Bolzano/Bozen",
+    "comune": "Brunico",
+    "centro": "Servizio Casa delle donne – Frauenhausdienst",
+    "indirizzo": [
+      "Michael Pacher Str. 6"
+    ],
+    "contatti": [
+      "0474410252",
+      "800310303",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 08:30-12:00; Martedì: 08:30-12:00; Mercoledì: 08:30-12:00; Giovedì: 08:30-12:00; Venerdì: 08:30-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Trentino-Alto Adige/Südtirol"
+  },
+  {
+    "provincia": "Bolzano/Bozen",
+    "comune": "Merano",
+    "centro": "Donne contro la Violenza «Frauen gegen gewalt» Onlus",
+    "indirizzo": [
+      "Corso Libertà 184/A"
+    ],
+    "contatti": [
+      "0473222335",
+      "800014008",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-16:00; Martedì: 13:30-17:30; Mercoledì: 09:00-16:00; Giovedì: 13:30-17:30; Venerdì: 09:00-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Trentino-Alto Adige/Südtirol"
+  },
+  {
+    "provincia": "Trento",
+    "comune": "Trento, Rovereto, Cles, Cavalese, Riva del Garda",
+    "centro": "Centro Antiviolenza",
+    "indirizzo": [
+      "Via della Dogana, 1, Trento"
+    ],
+    "contatti": [
+      "0461220048"
+    ],
+    "orari": [
+      "Lunedì: 08:30-16:30; Martedì: 08:30-16:30; Mercoledì: 13:00-19:00; Giovedì: 08:30-16:30; Venerdì: 08:30-16:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Trentino-Alto Adige/Südtirol"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Città della Pieve",
+    "centro": "Centro AntiViolenza Maria Teresa Bricca",
+    "indirizzo": [
+      "Palazzo Baglioni, via G. Garibaldi 9"
+    ],
+    "contatti": [
+      "0578778470",
+      "3457107440"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 09:00-12:00; Mercoledì: 09:00-12:00; Giovedì: 15:00-18:00; Venerdì: 09:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Città di Castello",
+    "centro": "Centro Antiviolenza Medusa",
+    "indirizzo": [
+      "Via del Brandano"
+    ],
+    "contatti": [
+      "3534164699"
+    ],
+    "orari": [
+      "Lunedì: 12:00-16:00; Martedì: 11:00-18:00; Mercoledì: 9:00-15:00; Giovedì: 11:00-18:00; Venerdì: 10:00-12:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Foligno",
+    "centro": "Centro Antiviolenza MIA",
+    "indirizzo": [
+      "Via dei Mulini, 20/A"
+    ],
+    "contatti": [
+      "3892114733",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 8:30-14:00; Martedì: 8:30-14:00; Mercoledì: 8:30-14:00; Giovedì: 8:30-14:00; Venerdì: 8:30-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Gubbio",
+    "centro": "Centro Antiviolenza Gubbio",
+    "indirizzo": [
+      "Parcheggio Ex Seminario"
+    ],
+    "contatti": [
+      "3534143438",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 16:00-19:00; Martedì: 09:00-14:00/14:30-17:30; Mercoledì: chiuso; Giovedì: 10:00-13:00; Venerdì: 14:00-19:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Magione",
+    "centro": "Centro Antiviolenza Magione",
+    "indirizzo": [
+      "Via Amendola 9"
+    ],
+    "contatti": [
+      "0758473063",
+      "3346144681",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-18:00; Martedì: 09:00-12:00; Mercoledì: 15:00-18:00; Giovedì: 10:00-13:00; Venerdì: 15:00-18:00; Sabato: chiuso, su appuntamento; Domenica: chiuso"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Perugia",
+    "centro": "Centro Antiviolenza Servizio Telefono Donna",
+    "indirizzo": [
+      "Via Mazzini, 21 c/o Palazzo Danzetta"
+    ],
+    "contatti": [
+      "3663886689"
+    ],
+    "orari": [
+      "Lunedì: 9:00-19:00; Martedì: 9:00-19:00; Mercoledì: 09:00-19:00; Giovedì: 9:00-19:00; Venerdì: 09:00-14:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Perugia (Ponte Pattoli)",
+    "centro": "Centro Antiviolenza Catia Doriana Bellini",
+    "indirizzo": [
+      "Strada della Milizia, 4 Ponte Pattoli"
+    ],
+    "contatti": [
+      "3423029409"
+    ],
+    "orari": [
+      "Lunedì: 9:00-19:00; Martedì: 09:00-19:00; Mercoledì: 09:00-14:00; Giovedì: 09:00-14:00; Venerdì: 09:00-14:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Perugia",
+    "comune": "Spoleto",
+    "centro": "Centro Antiviolenza Crisalide",
+    "indirizzo": [
+      "Via Cascia, 39"
+    ],
+    "contatti": [
+      "3453667048",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 10:00-12:30/15:00-17:30; Martedì: 10:00-12:30/15:00-17:30; Mercoledì: 09:30-11:00/15:00-17:30; Giovedì: 10:00-12:30/15:00-17:30; Venerdì: 09:30-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Terni",
+    "comune": "Narni",
+    "centro": "Centro AntiViolenza Barbara Corvi",
+    "indirizzo": [
+      "Piazza galeotto Marzio, 6 Narni e Via della Valle, 1 Amelia"
+    ],
+    "contatti": [
+      "0744240845",
+      "3346042156",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 15:00-19:00; Martedì: 09:00-13:00; Mercoledì: 09:00-13:00; Giovedì: 15:00-19:00; Venerdì: chiuso; Sabato: chiusi; Domenica: 10:00-12:00"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Terni",
+    "comune": "Orvieto",
+    "centro": "Centro Antiviolenza L’albero di Antonia",
+    "indirizzo": [
+      "Viale I Maggio, 36"
+    ],
+    "contatti": [
+      "0763300944",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 16:00-19:00; Martedì: 09:00-15:00; Mercoledì: 09:00-13:00; Giovedì: 09:00-15:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: h24"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Terni",
+    "comune": "Terni",
+    "centro": "Centro Antiviolenza Liberetutte",
+    "indirizzo": [
+      "Via Campomicciolo, 1"
+    ],
+    "contatti": [
+      "3342024605",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 09:00-13:00/15:00-19:00; Martedì: 09:00-13:00/15:00-19:00; Mercoledì: 09:00-13:00/15:00-19:00; Giovedì: 15:00-19:00; Venerdì: 09:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Umbria"
+  },
+  {
+    "provincia": "Valle d’Aosta/Vallée d’Aoste",
+    "comune": "Aosta",
+    "centro": "Centro Antiviolenza donne contro la violenza",
+    "indirizzo": [
+      "Via Torino, 18"
+    ],
+    "contatti": [
+      "3440789888"
+    ],
+    "orari": [
+      "Lunedì: 08:00-20:00; Martedì: 08:00-20:00; Mercoledì: 08:00-20:00; Giovedì: 08:00-20:00; Venerdì: 08:00-20:00; Sabato: 08:00-20:00; Domenica: 08:00-20:00"
+    ],
+    "regione": "Valle d'Aosta"
+  },
+  {
+    "provincia": "Belluno",
+    "comune": "Ponte nelle Alpi, Belluno, Feltre, Sedico",
+    "centro": "Centro Antiviolenza Belluno Donna",
+    "indirizzo": [
+      "Via del Piave, 5"
+    ],
+    "contatti": [
+      "0439885118",
+      "0437981577",
+      "3933981577",
+      "h24"
+    ],
+    "orari": [
+      "Lunedì: 12:30-16:30; Martedì: 10:00-12:00; Mercoledì: 15:00-18:00; Giovedì: 11:00-16:00; Venerdì: 10:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Padova",
+    "comune": "Camposampiero, Cittadella (Facca)",
+    "centro": "Centro Antiviolenza Alta Padovana",
+    "indirizzo": [
+      "(Camposampiero) Via Tiso, 12; (Cittadella) Via Nicoletti"
+    ],
+    "contatti": [
+      "0498721277",
+      "800814681"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:45/13:30-15:30; Martedì: 9:00-12:45/13:30-15:30; Mercoledì: 9:00-12:45/13:30-15:30; Giovedì: 9:00-12:45/13:30-15:30; Venerdì: 9:00-12:45/13:30-15:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Padova",
+    "comune": "Este, Conselve",
+    "centro": "Centro Antiviolenza DONNE DESTE",
+    "indirizzo": [
+      "(Este) Via San Rocco 15; (Conselve) Piazza Dante 8"
+    ],
+    "contatti": [
+      "0498721277",
+      "800814681"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:45/13:30-15:30; Martedì: 9:00-12:45/13:30-15:30; Mercoledì: 9:00-12:45/13:30-15:30; Giovedì: 9:00-12:45/13:30-15:30; Venerdì: 9:00-12:45/13:30-15:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Padova",
+    "comune": "Padova, Abano Terme, Cadoneghe",
+    "centro": "Centro Veneto Progetti Donna",
+    "indirizzo": [
+      "(Padova) Via Tripoli, 3/ Piazza Capitaniato 19 (sportello); (Abano Terme) Via Matteotti 71; (Cadoneghe) Via Noventa, 3"
+    ],
+    "contatti": [
+      "0498721277",
+      "800814681"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:45/13:30-15:30; Martedì: 9:00-12:45/13:30-15:30; Mercoledì: 9:00-12:45/13:30-15:30; Giovedì: 9:00-12:45/13:30-15:30; Venerdì: 9:00-12:45/13:30-15:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Padova",
+    "comune": "Piove di Sacco",
+    "centro": "Centro Antiviolenza Saccisca",
+    "indirizzo": [
+      "Via Cò del Panico"
+    ],
+    "contatti": [
+      "0498721277",
+      "800814681"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:45/13:30-15:30; Martedì: 9:00-12:45/13:30-15:30; Mercoledì: 9:00-12:45/13:30-15:30; Giovedì: 9:00-12:45/13:30-15:30; Venerdì: 9:00-12:45/13:30-15:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Padova",
+    "comune": "Rubano",
+    "centro": "Centro Antiviolenza Leuke",
+    "contatti": [
+      "0498721277",
+      "800814681"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:45/13:30-15:30; Martedì: 9:00-12:45/13:30-15:30; Mercoledì: 9:00-12:45/13:30-15:30; Giovedì: 9:00-12:45/13:30-15:30; Venerdì: 9:00-12:45/13:30-15:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "indirizzo": [],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Rovigo",
+    "comune": "Rovigo, Adria e Lendinara",
+    "centro": "Centro Antiviolenza del Polesine",
+    "indirizzo": [
+      "Viale Marconi, 2"
+    ],
+    "contatti": [
+      "800304271",
+      "3480908200"
+    ],
+    "orari": [
+      "Lunedì: 8:00-20:00; Martedì: 8:00-20:00; Mercoledì: 8:00-20:00; Giovedì: 8:00-20:00; Venerdì: 8:00-20:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Treviso",
+    "comune": "CastelFranco Veneto",
+    "centro": "Centro Antiviolenza N.I.L.D.E.",
+    "indirizzo": [
+      "Via Verdi, 3"
+    ],
+    "contatti": [
+      "3475575717"
+    ],
+    "orari": [
+      "Lunedì: 14:00-17:00; Martedì: 9:00-12:30; Mercoledì: 9:00-12:00; Giovedì: 11:00-12:00; Venerdì: 9:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Treviso",
+    "comune": "Montebelluna, Vedelago, Asolo, Valdobbiadene, Pieve di Soligo",
+    "centro": "Centro Antiviolenza Stella Antares",
+    "indirizzo": [
+      "(Montebelluna) Via Montegrappa; (Vedelago) Via Papa Sarto, 5; (Asolo) Via Forestuzzo, 5; (Valdobbiadene): Piazza Marconi, 1; (Pieve di Soligo) Via G. Battistella, 1"
+    ],
+    "contatti": [
+      "3899134831"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30; Martedì: 15:30-18:30; Mercoledì: 9:30-12:30; Giovedì: 15:30-18:30; Venerdì: 9:30-12:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Treviso",
+    "comune": "Quinto di Treviso",
+    "centro": "Centro delle donne libere dalla violenza",
+    "indirizzo": [
+      "Viale Francia, 2"
+    ],
+    "contatti": [
+      "3401008065"
+    ],
+    "orari": [
+      "Lunedì: 8:30-10:00; Martedì: 14:00-15:30; Mercoledì: 9:30-11:00; Giovedì: 16:30-18:00; Venerdì: chiuso; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Treviso",
+    "comune": "Treviso",
+    "centro": "Telefono Rosa di Treviso",
+    "indirizzo": [
+      "Via Roma, 20"
+    ],
+    "contatti": [
+      "0422583022"
+    ],
+    "orari": [
+      "Lunedì: 9:30-12:30/15:30-18:00; Martedì: 9:30-12:30/15:30-18:00; Mercoledì: 9:30-12:30/15:30-18:00; Giovedì: 9:30-12:30/15:30-18:00; Venerdì: 9:30-12:30/15:30-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Treviso",
+    "comune": "Vittorio Veneto",
+    "centro": "Centro Antiviolenza Vittorio Veneto",
+    "indirizzo": [
+      "Piazza del Popolo, 15"
+    ],
+    "contatti": [
+      "0438569450",
+      "0438569451"
+    ],
+    "orari": [
+      "Lunedì: 09:00-12:00; Martedì: 16:00-18:00; Mercoledì: 09:00-12:00; Giovedì: 17:00-19:00; Venerdì: 09:30-12:30; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Venezia",
+    "comune": "Noale, Mirano",
+    "centro": "Centro Antiviolenza Sonia",
+    "indirizzo": [
+      "Largo San Giorgio, 3 via bastia fuori 58"
+    ],
+    "contatti": [
+      "3492420066"
+    ],
+    "orari": [
+      "Lunedì: 10:00-14:00; Martedì: 10:00-14:00; Mercoledì: 10:00-13:00; Giovedì: 14:00-18:00; Venerdì: 10:00-12:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Venezia",
+    "comune": "San Donà di Piave, Jesolo, Musile di Piave",
+    "centro": "Centro Multidisciplinare Antiviolenza e Antistalking La Magnolia",
+    "indirizzo": [
+      "Via Ca Boldù 120"
+    ],
+    "contatti": [
+      "0421596104"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: ) 9:00-13:00; Mercoledì: 9:00-13:00; Giovedì: 9:00-13:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Venezia",
+    "comune": "Chioggia, Cavarzere",
+    "centro": "Centro Antiviolenza Civico Donna",
+    "indirizzo": [
+      "(Chioggia) Riviera Caboto"
+    ],
+    "contatti": [
+      "3514928413"
+    ],
+    "orari": [
+      "Lunedì: 9:30-15:30; Martedì: 9:30-15:30; Mercoledì: 9:30-15:30; Giovedì: 9:30-15:30; Venerdì: 9:30-15:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Venezia",
+    "comune": "Portogruaro",
+    "centro": "Centro di ascolto per la violenza di genere Città Gentili",
+    "indirizzo": [
+      "Via Antonio Bon, 13"
+    ],
+    "contatti": [
+      "042172819",
+      "3311310636"
+    ],
+    "orari": [
+      "Lunedì: 9:00-12:00/15:00-18:00; Martedì: 9:00-12:00/15:00-18:00; Mercoledì: 9:00-12:00/15:00-18:00; Giovedì: 9:00-12:00/15:00-18:00; Venerdì: 9:00-12:00/15:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Venezia",
+    "comune": "Mestre, Venezia, Riviera del Brenta",
+    "centro": "Centro Antiviolenza Estia",
+    "indirizzo": [
+      "(Mestre) Via Bissagola, 14"
+    ],
+    "contatti": [
+      "3429757092"
+    ],
+    "orari": [
+      "Lunedì: 13:00-14:30; Martedì: 10:00-14:00; Mercoledì: 9:00-13:00; Giovedì: 14:00-18:00; Venerdì: 10:00-11:30; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Venezia",
+    "comune": "Mestre Carpenedo, Venezia Cannaregio, Lido di Venezia",
+    "centro": "Centro Antiviolenza comune Venezia",
+    "indirizzo": [
+      "(Mestre Carpenedo) Viale Garibaldi 155/A; (Venezia Cannaregio) Villa Groggia Calle del Capitello 3160/A; (Lido di Venezia) Via Sandro Gallo 32/A"
+    ],
+    "contatti": [
+      "0412744222",
+      "3669308389"
+    ],
+    "orari": [
+      "(Mestre Carpenedo) Lunedì: 9:00-16:00; Martedì: 9:00-13:00; Mercoledì: 9:00-13:00; Giovedì: 9:00-16:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso; (Lido di Venezia) Martedì: 9:00-17:00; Giovedì: 9:00-13:00"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Verona",
+    "comune": "Legnago",
+    "centro": "Centro Antiviolenza Legnago Donna",
+    "contatti": [
+      "3922237670",
+      "h24"
+    ],
+    "indirizzo": [],
+    "orari": [],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Verona",
+    "comune": "Verona",
+    "centro": "Centro Antiviolenza P.E.T.R.A.",
+    "indirizzo": [
+      "Palazzo Giuliari (all’interno di UniVr)"
+    ],
+    "contatti": [
+      "800392722",
+      "3669310383"
+    ],
+    "orari": [
+      "Lunedì: 11:00-13:00; Martedì: 15:00-17:00; Mercoledì: 11:00-13:00; Giovedì: 15:00-17:00; Venerdì: 9:00-11:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Verona",
+    "comune": "Verona, Bussolengo, Caprino Veronese, Negrar, Pescantina, San Giovanni Lupatoto, Sona",
+    "centro": "Centro Antiviolenza Telefono Rosa di Verona",
+    "indirizzo": [
+      "Piazza Santa Toscana, 9"
+    ],
+    "contatti": [
+      "0458015831"
+    ],
+    "orari": [
+      "Lunedì: 15:30-17:30; Martedì: 09:30-11:30; Mercoledì: 18:30-20:30; Giovedì: 18:30-20:30; Venerdì: 16:00-18:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Vicenza",
+    "comune": "Asiago, Bassano del Grappa",
+    "centro": "Centro Antiviolenza Hagar",
+    "indirizzo": [
+      "Via dalla Swann, 13"
+    ],
+    "contatti": [
+      "0424525065",
+      "3667036364"
+    ],
+    "orari": [
+      "Lunedì: 14:30-17:30; Martedì: chiuso; Mercoledì: 9:00-12:00; Giovedì: chiuso; Venerdì: 11:00-16:00; Sabato: h24; Domenica: h24"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Vicenza",
+    "comune": "Bassano del Grappa, Tezze sul Brenta, Marostica, Cassola, Valbrenta, Luisiana Conco, Solagna, Pozzoleone",
+    "centro": "Centro Antiviolenza Spazio Donna",
+    "contatti": [
+      "0424521483",
+      "3661537585"
+    ],
+    "orari": [
+      "Lunedì: 8:00-20:00; Martedì: 8:00-20:00; Mercoledì: 8:00-20:00; Giovedì: 8:00-20:00; Venerdì: 8:00-20:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "indirizzo": [],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Vicenza",
+    "comune": "Schio",
+    "centro": "Centro Antiviolenza sportello Donna Maria Grazia Cutuli",
+    "indirizzo": [
+      "Via Pasini, 27"
+    ],
+    "contatti": [
+      "0445691391"
+    ],
+    "orari": [
+      "Lunedì: 9:00-13:00; Martedì: 14:00-18:00; Mercoledì: 9:00-13:00; Giovedì: 9:00-13:00; Venerdì: 9:00-13:00; Sabato: chiuso; Domenica: chiuso"
+    ],
+    "regione": "Veneto"
+  },
+  {
+    "provincia": "Vicenza",
+    "comune": "Vicenza, Sportello di Arzignano, Pojana Maggiore",
+    "centro": "CeaV- Centro Antiviolenza Vicenza",
+    "indirizzo": [
+      "(Vicenza) Via Vaccari, 113; (Arzignano) Corso G. Mazzini, 83; (Pojana Maggiore) Via Trieste, 5"
+    ],
+    "contatti": [
+      "0444230402",
+      "3714406986",
+      "3783071960",
+      "3920115571",
+      "04441727243"
+    ],
+    "orari": [
+      "(Vicenza) Lunedì: 8:30-17:00; Martedì: 8:30-17:00; Mercoledì: 8:30-17:00; Giovedì: 13:00-17:00; Venerdì: 8:30-17:00; Sabato: chiuso; Domenica: chiuso; (Arzignano) Lunedì: 9:00-13:00; Mercoledì: 9:30-17:30; Venerdì: 9:00-14:00; (Pojana Maggiore) Martedì: 9:00-12:00"
+    ],
+    "regione": "Veneto"
+  }
+]

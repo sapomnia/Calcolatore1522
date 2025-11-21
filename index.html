@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Centri antiviolenza</title>
+
+  <!-- Roboto -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="app-header">
+      <h1>Trova un centro antiviolenza</h1>
+      <p>Seleziona Regione, Provincia e Comune per vedere i centri disponibili.</p>
+    </header>
+
+    <main class="app-main">
+      <section class="controls">
+        <div class="control-group">
+          <label for="region-select">Regione</label>
+          <select id="region-select">
+            <option value="">Seleziona una regione</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="province-select">Provincia</label>
+          <select id="province-select" disabled>
+            <option value="">Seleziona una provincia</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="comune-select">Comune</label>
+          <select id="comune-select" disabled>
+            <option value="">Seleziona un comune</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="results">
+        <div class="centers-panel">
+          <h2>Centri nel comune selezionato</h2>
+          <ul id="centers-list" class="centers-list">
+            <li class="placeholder">Seleziona Regione, Provincia e Comune.</li>
+          </ul>
+        </div>
+
+        <div class="details-panel">
+          <h2>Dettagli centro</h2>
+          <div id="center-details" class="center-details">
+            <p class="placeholder">
+              Clicca sul nome di un centro per vedere indirizzo, contatti e orari.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <img src="wired.png" alt="WIRED logo" class="wired-logo" />
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
